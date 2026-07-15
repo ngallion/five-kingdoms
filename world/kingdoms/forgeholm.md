@@ -24,3 +24,5 @@ Philosophy — to ask whether they should. Science — to understand what they'v
 ## GM Notes
 
 > *(Forgeholm is the king's next target. What does the power structure there look like? Is there a faction resisting? How can the party intervene before it falls?)*
+
+**Why the king really wants Forgeholm:** not the weapons — the **Enginewrights' Guild**, the only living holders of the craft that builds and tunes the Hearts. With them, Korrven can re-tune anchor after anchor toward himself. The **Mother Engine** beneath the capital is the master tap on the whole lattice. See [The Anchors & the Hearts](../anchors-and-engines.md).

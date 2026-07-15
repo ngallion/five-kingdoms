@@ -33,4 +33,8 @@ Each kingdom was founded on one of five essential aspects of humanity. For gener
 
 ## GM Notes
 
-> *(Hidden truths: Is the king's rise a symptom of the isolation, or did he cause it? Is there a sixth aspect that was lost or suppressed? What was the original event that drove the kingdoms apart?)*
+**These questions are now answered** — full detail in [History](history.md) and [The Anchors & the Hearts](anchors-and-engines.md):
+
+- **The king's rise is a symptom, not the cause.** The isolation came first — the Sundering (an inverted protective ritual, 214 years ago) and later the Resonance Engines ("the Hearts") that let each kingdom burn its own aspect as fuel. Korrven is the isolation's most resonant wound, not its author.
+- **There IS a sixth aspect: Love** — the binding itself. Its kingdom, **Amaranth**, was the keystone of the Anchor Working and was *unmade* when the ritual inverted — erased from land, record, and memory. The Hollow March is where it stood.
+- **The original event was the Anchor Working** — six anchors meant to bind the kingdoms together against Vael, sabotaged (see *the Architect* in history.md) so that each kingdom was bound to itself instead. The isolation is an ongoing spell, and it can be broken — anchor by anchor.

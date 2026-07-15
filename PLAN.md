@@ -72,11 +72,11 @@ Ordered by play priority: the world only needs to be one arc deep before session
 
 ### Phase 1 — Foundations (write once, everything depends on it)
 
-- [ ] **`world/history.md`** — the timeline: founding of the kingdoms, the age of harmony, the Sundering (per discovery #1), the long isolation, Korrven's exile and return, the fall of Agoran. Include the "what historians got wrong" GM Notes section — this is where the sixth-aspect secret hides if it exists.
+- [x] **`world/history.md`** — DONE: the Anchor Working / Resonance Engine hybrid canon. Sixth kingdom (Amaranth, aspect: Love) unmade at the keystone; the Hearts extract each kingdom's aspect and feed Vael. See also new file `world/anchors-and-engines.md` (per-kingdom anchor states, re-tuning mechanics, endgame).
 - [ ] **`world/geography.md`** — the map in prose: each kingdom's terrain and climate (Forgeholm = mountains/industry, Luminar = ?, etc.), the wilds between them, the dead trade roads, travel times. Optionally commission/sketch an actual map for `handouts/`.
 - [ ] **`world/magic.md`** (new file) — the magic system per discovery #3; update the Magic section of `overview.md` to link it.
 - [ ] **`world/religion.md`** (new file, optional but recommended) — faiths, folk memory of Vael, what each kingdom worships now (Luminar worships novelty, Veritas truth, etc. — isolation warps faith too).
-- [ ] **Resolve the `overview.md` GM Notes questions** in place — replace the placeholder block with actual answers.
+- [x] **Resolve the `overview.md` GM Notes questions** in place — DONE: symptom-not-cause, sixth aspect = Love/Amaranth, original event = the inverted Anchor Working.
 
 ### Phase 2 — Kingdoms in depth (prioritized by campaign order)
 
