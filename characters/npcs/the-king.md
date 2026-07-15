@@ -62,6 +62,10 @@ He will try to do to the party what he has done to every kingdom: find the wound
 
 ## GM Notes
 
+**His endgame (see [The Anchors & the Hearts](../../world/anchors-and-engines.md)):** He is not collecting kingdoms — he is collecting *anchors*. His true goal is to re-run the Anchor Working with himself as the living keystone: every kingdom bound permanently to him, a community that cannot exile its king because he *is* the binding. Forgeholm is next because its Enginewrights' Guild holds the only craft that touches the anchors.
+
+**His army's secret:** Many of his misfits and outcasts are descendants of **Amaranth**, the unmade sixth kingdom — the heirs of Love, aspectless in a sorted world, marching for the thing that erased them. They may also be the key to the campaign's best ending (see history.md GM Notes).
+
 **His origin:** Where was he exiled from? Was the exile just, unjust, or complicated? If it was unjust, the party has to reckon with that. If it was just, he has to reckon with it.
 
 **The tragic read:** He is solving the same problem the heroes are — he just chose domination instead of cooperation. He saw that the five kingdoms needed each other and decided the solution was one king over all of them, not five equal partners. He is not wrong about the problem. He is catastrophically wrong about the solution.

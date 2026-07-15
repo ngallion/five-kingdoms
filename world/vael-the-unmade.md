@@ -12,6 +12,12 @@ It is not evil in any way that can be argued with. It does not want conquest or 
 
 It has no name it gave itself, because naming requires community. *Vael* is what the oldest records call it — a word from a dead language that roughly means *the space where something was*. The Unmade is what those who have encountered it and survived tend to call it afterward.
 
+## Vael and the Sundering
+
+Vael could not break the Anchor Working by force — it has no force. Instead it found one of the Working's own designers, a person carrying a private and perfect loneliness, and whispered a single "correction" to the keystone's design. The lattice inverted; Amaranth was unmade; the wards meant to keep Vael out became the walls that feed it. (See [History](history.md) and [The Anchors & the Hearts](anchors-and-engines.md).)
+
+Korrven is not Vael's first partner. He is its second. What became of the first — **the Architect** — is an open question, and possibly a campaign-defining one.
+
 ## How It Found Korrven
 
 It didn't find him. He was the most resonant wound it had ever felt from a distance, and it simply moved toward him the way water moves downhill.
