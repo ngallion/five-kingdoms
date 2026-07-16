@@ -26,3 +26,5 @@ Philosophy — to ask whether they should. Science — to understand what they'v
 > *(Forgeholm is the king's next target. What does the power structure there look like? Is there a faction resisting? How can the party intervene before it falls?)*
 
 **Why the king really wants Forgeholm:** not the weapons — the **Enginewrights' Guild**, the only living holders of the craft that builds and tunes the Hearts. With them, Korrven can re-tune anchor after anchor toward himself. The **Mother Engine** beneath the capital is the master tap on the whole lattice. See [The Anchors & the Hearts](../anchors-and-engines.md).
+
+**The opening hook:** the campaign opens with **[the Wayfair](../factions/the-wayfair.md)** camped outside the forge-city for the first time in living memory — and the Mother Engine stuttering while the fair sings. The Guild wants a culprit; the king's emissary offers them one.
