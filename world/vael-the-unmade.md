@@ -46,6 +46,8 @@ Severing the bond between Vael and Korrven is a different problem — and perhap
 
 **The horror of Vael** is that it is not wrong about anything. Separation does exist. Loneliness is real. It didn't create those things — it just found them and called them home.
 
+**Why the bell rang so loud:** Korrven's exile happened in Forgeholm — directly above the Mother Engine, which his father had just secretly tied into the whole lattice. The wound transmitted kingdom-wide because Herrek had built the wire. Vael has never told Korrven what his father actually did ([the full story](../characters/npcs/the-king.md)) — proof of that concealment is one of the party's few levers for severing the bond.
+
 **The question it raises:** If Vael is starved by connection, what happens to all the genuine loneliness it was feeding on? Does healing the kingdoms mean those people — Korrven's exiles, his misfits — have somewhere to go? Or do they just become Vael's next meal?
 
 **Vael and the party:** It will perceive the heroes as a threat long before Korrven does. It may try to work on them subtly — isolating them from each other, feeding on whatever fractures exist between them. It does not manipulate through lies. It manipulates through distance.

@@ -22,8 +22,8 @@ Then came Korrven. See [Vael, the Unmade](vael-the-unmade.md), [The Anchors & th
 | **0** | **The Sundering** | The Working inverts at activation. Amaranth is unmade. Borders seal within a generation; each kingdom remembers a different catastrophe. |
 | 0–152 AS | **The Age of Walls** | Isolation hardens into identity. Each kingdom masters its aspect and forgets why it ever needed the others. Histories are quietly rewritten. |
 | 152–160 AS | **The Engine Age** | Forgeholm's enginewrights find the buried anchor sites and build a Heart atop each. The last caravans in living memory deliver them. Trade dies for good. |
-| 195 AS | **Korrven's exile** | A man is cast out — unjustly, furiously, completely — and something ancient moves toward the wound. *(Which kingdom exiled him: still open — see GM Notes.)* |
-| 209 AS | **The Fall of Agoran** | Korrven returns at the head of an army of outcasts. Agoran does not fall to him; it *welcomes* him. |
+| 195 AS | **The Tamperer's Tribunal — Korrven's exile** | A sealed Guild tribunal in Forgeholm condemns Wright Herrek for tampering with the Mother Engine and exiles his entire line. His son is cast out — unjustly, furiously, completely — and something ancient moves toward the wound. *(See GM Notes.)* |
+| 209 AS | **The Fall of Agoran** | Korrven arrives at the head of an army of outcasts. Agoran does not fall to him; it *welcomes* him. |
 | **214 AS** | **Now** | The king's emissaries are in Forgeholm. Whoever controls the Hearts controls the lattice. The campaign begins. |
 
 ## Major Historical Events
@@ -62,7 +62,7 @@ Player-discoverable cracks in the official story — seed these early:
 
 **The Architect.** Vael did not sabotage the Working by force — it can't. It found one of the Working's designers, someone already carrying a private, perfect loneliness, and whispered a single "correction" to the keystone. Korrven is not Vael's first partner; he is its second. Whether the Architect survived — as a ghost in the Hollow March, an undying penitent, or something worse — is deliberately open. If they exist, they are the one being who knows the full design, making them both the campaign's best lore source and its bitterest mirror of Korrven. *(Optional thread: the enginewrights' "lucky" discovery of the anchor sites in 152 AS was guided by the Architect's surviving notes — or by the Architect.)*
 
-**Korrven's exile (195 AS).** Kingdom still undecided (Agoran remains the strongest candidate — it makes the conquest a homecoming). The Vael file already establishes the exile was *unjust* — the party will have to reckon with that.
+**Korrven's exile (195 AS) — settled: Forgeholm.** *(Supersedes the earlier Agoran-homecoming candidate — the homecoming is better spent on the campaign's opening arc.)* His father, **Wright Herrek** of the Mother Engine, was one of the wrights who noticed what the Hearts burn; instead of accepting quiet retirement he traced the draw to the lattice and attempted a splice. The Guild ruled it failed sabotage, sealed the tribunal, and exiled the whole line — so the exile was still *unjust*: Korrven did nothing, and even Herrek's "crime" was an attempted repair. The Guild believes the splice failed. It didn't — it is why the Mother Engine is the master tap on the whole lattice. Korrven knows none of this; he believes his father was destroyed for trying to make the Hearts *better*. Full truth and how to use it: [Korrven](../characters/npcs/the-king.md). The fall of Forgeholm he is now engineering is his homecoming.
 
 **Korrven's endgame.** He is not collecting kingdoms; he is collecting *anchors*. His true goal is to re-run the Anchor Working with himself as the living keystone — every kingdom bound permanently to *him*. A community that cannot exile him, because he is the binding. This is why Forgeholm is next: the enginewrights hold the only living craft that touches the anchors.
 

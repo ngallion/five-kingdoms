@@ -41,7 +41,7 @@ Then the fair packs up, and within a day or three it fades. The kingdom's grip c
 ## Key Members
 
 - **Sera Kindlow, the Fairkeeper** — matriarch of the circuit, keeper of the one law. Reads people the way Korrven does, but her instinct runs opposite: where he finds the wound to press, she finds it to bind. Has never once been able to explain *why* the sixth wagon stays, and gets quiet when asked.
-- **Ondrel Vasht, master of the wonder-works** — formerly a senior enginewright of Forgeholm, "quietly retired" after asking aloud what the Hearts actually burn. The only person outside the Guild who can tune Heart-craft. He has noticed that engines *stutter* when the fair camps near them, and he is starting to do arithmetic he doesn't like.
+- **Ondrel Vasht, master of the wonder-works** — formerly a senior enginewright of Forgeholm, "quietly retired" after asking aloud what the Hearts actually burn. The only person outside the Guild who can tune Heart-craft. He has noticed that engines *stutter* when the fair camps near them, and he is starting to do arithmetic he doesn't like. *(GM: he was a journeyman when Wright Herrek was tried — one of the few living who remember the sealed tribunal, and the one person who could read its record and see that the "failed" splice took. See [Forgeholm — GM Notes](../kingdoms/forgeholm.md#gm-notes).)*
 - **Brindle, the route-caller** — navigates the circuit by songs and land-memory rather than maps. The only living person who can reliably find the edge of the Hollow March. Cheerful, evasive, and more frightened of the March than she lets on.
 
 ## Relationship to the Party

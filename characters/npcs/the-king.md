@@ -6,9 +6,11 @@
 
 ## The Core of Him
 
-He was exiled. Cast out from the kingdom of belonging by the very people he wanted to be part of. That wound never healed — it became a furnace. He spent years in the margins, finding others like him: misfits, monsters, cast-outs. He gave them what he always wanted. A home. A place where they belonged.
+He was exiled — cast out of Forgeholm as a young man, weeks from taking his own wright's marks, by the very Guild he had spent his life earning his way into. Not for anything he did: for his father's name. A sealed tribunal ruled his father, **Wright Herrek** of the Mother Engine, a tamperer — and Guild law scours the whole line. Korrven was never told what his father actually stood accused of. He believes, with absolute conviction, that Herrek's only crime was trying to make the Hearts *better* — that Forgeholm destroyed a man for trying to mend the thing it loved most, then threw his family into the wilds after him. *(What really happened: see GM Notes.)*
 
-And then he went back.
+That wound never healed — it became a furnace. He spent years in the margins, finding others like him: misfits, monsters, cast-outs. He gave them what he always wanted. A home. A place where they belonged. Agoran — hollowed out and starving for exactly that — welcomed them all, and made him a king.
+
+And now he is going home.
 
 He does not rule through fear alone. He gives people something real — purpose, identity, a place to belong. The people of Agoran are genuinely grateful to him. That is the horror of it.
 
@@ -66,7 +68,11 @@ He will try to do to the party what he has done to every kingdom: find the wound
 
 **His army's secret:** Many of his misfits and outcasts are descendants of **Amaranth**, the unmade sixth kingdom — the heirs of Love, aspectless in a sorted world, marching for the thing that erased them. They may also be the key to the campaign's best ending (see history.md GM Notes).
 
-**His origin:** Where was he exiled from? Was the exile just, unjust, or complicated? If it was unjust, the party has to reckon with that. If it was just, he has to reckon with it.
+**His origin — the truth of the exile (195 AS):** Herrek was one of the senior wrights who noticed what the Hearts actually burn ([Who Knows What](../../world/anchors-and-engines.md#who-knows-what-gm-reference)). Quiet retirement wasn't in him. He traced the draw beneath the Mother Engine, found the anchor — and beneath the anchor, the lattice — and attempted a splice: the first stage of a repair meant to close the drain. The Guild caught him at the work, found what looked like a dead graft fused into the engine's root, ruled it *failed* sabotage, sealed the tribunal, and exiled his line. **The Guild was wrong. The splice took.** Herrek succeeded in tying the Mother Engine into the lattice itself — his "failure" is the reason the Mother Engine is the master tap on every anchor. He almost certainly died in exile believing the Guild's verdict. *(Option: he didn't — a living Herrek, in the Hollow March or among the Wayfair, is a late-campaign bombshell.)*
+
+**The irony that runs the campaign:** Korrven's endgame — seize the Guild, re-tune every anchor through the Mother Engine — runs entirely on his father's secret success. The master tap he is coming to take *is Herrek's work*, and he has no idea. And Vael knows. It felt the splice take, and the exile that followed rang straight down the freshly tied lattice — that is why the wound "rang like a struck bell" ([Vael](../../world/vael-the-unmade.md#how-it-found-korrven)). It has never told him: the grievance as Korrven tells it — a visionary punished for loving the work — is better fuel than the truth.
+
+**The truth as a weapon:** the sealed tribunal record still sits in the Guild's deep archive ([Forgeholm](../../world/kingdoms/forgeholm.md#gm-notes)). Herrek's splice was an act of *repair* — reconnection, the drain closed for everyone. His son inherited the wound and inverted the answer: where the father tried to fix the binding, the son means to *become* it. A party that proves this to Korrven holds one of the few levers that reaches him — vindication and indictment on the same page, plus proof that Vael curates what he knows. Whether it cracks him open or hardens him is a table-defining scene, and it feeds directly into the "can he be saved" question in the Vael file. *(Mechanical option: Herrek's splice had a second stage he never finished. Completing his repair — Guild craft plus something of every kingdom — is an alternative route to the anchors that doesn't pass through Korrven at all.)*
 
 **The tragic read:** He is solving the same problem the heroes are — he just chose domination instead of cooperation. He saw that the five kingdoms needed each other and decided the solution was one king over all of them, not five equal partners. He is not wrong about the problem. He is catastrophically wrong about the solution.
 
