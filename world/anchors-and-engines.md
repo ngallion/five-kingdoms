@@ -62,6 +62,8 @@ Every anchor re-tuned visibly weakens Korrven (uniting kingdoms is the only thin
 
 Korrven's plan: seize the Guild, re-tune all six anchors, and re-run the Working with **himself as the living keystone** — every kingdom bound to him, a community that cannot exile its king because he *is* the binding.
 
+*(GM: the plan is only possible because of his blood. The keystone's "correction" is written in the Architect's hand, and the lattice answers the line that wrote it — Korrven's line. See [History — GM Notes](history.md#gm-notes).)*
+
 The party's counter is not just stopping him. The lattice wants a keystone. The final choice of the campaign is what — or who — stands in Amaranth's place: a restored keystone of Love (perhaps rebuilt by Amaranth's own unwitting descendants in Korrven's army), the party themselves, or nothing at all — a world that chooses connection freely, unbound, and takes its chances with Vael's patience.
 
 ## Who Knows What (GM reference)
@@ -71,7 +73,7 @@ The party's counter is not just stopping him. The lattice wants a keystone. The 
 - **Veritas archives:** hold the pre-Sundering texts that could explain everything — unread, hoarded, in a dead language. (The Vael references already established in [vael-the-unmade.md](vael-the-unmade.md) are part of this corpus.)
 - **Sophara:** has correctly deduced that the isolation is *enforced* rather than chosen — as a thought experiment, endlessly debated, acted on by no one.
 - **Korrven:** knows more than anyone living — Vael has shown him the lattice. He may not know what the bond hides from him — starting with what his own father did to the Mother Engine.
-- **The Architect** (if used): knows the full design. The only one who ever did.
+- **The Architect** (if used): knows the full design. The only one who ever did — and Korrven's ancestor ([History — GM Notes](history.md#gm-notes)).
 
 ## GM Notes
 
