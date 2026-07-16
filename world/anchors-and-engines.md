@@ -32,7 +32,7 @@ Only the **Enginewrights' Guild** of Forgeholm holds the craft of building and t
 
 **Fuel: the purpose of labor.** The Heart drinks the *why* out of work, leaving only the *how*. The widening gap between those who operate the machines and those operated by them is the extraction made visible.
 **Re-tuning needs:** *wisdom* — Sophara's question ("should we?") asked inside the forge, and Agoran's answer to "for whom?"
-**Special:** the Mother Engine is the master tap and the Guild's seat. Whoever holds it holds the craft that touches every anchor. **This is why the king is coming.**
+**Special:** the Mother Engine is the master tap and the Guild's seat. Whoever holds it holds the craft that touches every anchor. **This is why the king is coming.** *(GM: the Mother Engine is not the master tap because it was built first. It is the master tap because of a sealed act of "failed" tampering in 195 AS — Wright Herrek's splice, which tied it into the lattice itself. The Guild doesn't know the splice took; the tamperer's son is the king at the gates. See [Korrven](../characters/npcs/the-king.md).)*
 
 ### Sophara — the Still Heart
 
@@ -62,16 +62,18 @@ Every anchor re-tuned visibly weakens Korrven (uniting kingdoms is the only thin
 
 Korrven's plan: seize the Guild, re-tune all six anchors, and re-run the Working with **himself as the living keystone** — every kingdom bound to him, a community that cannot exile its king because he *is* the binding.
 
+*(GM: the plan is only possible because of his blood. The keystone's "correction" is written in the Architect's hand, and the lattice answers the line that wrote it — Korrven's line. See [History — GM Notes](history.md#gm-notes).)*
+
 The party's counter is not just stopping him. The lattice wants a keystone. The final choice of the campaign is what — or who — stands in Amaranth's place: a restored keystone of Love (perhaps rebuilt by Amaranth's own unwitting descendants in Korrven's army), the party themselves, or nothing at all — a world that chooses connection freely, unbound, and takes its chances with Vael's patience.
 
 ## Who Knows What (GM reference)
 
 - **Common folk:** the Hearts are engines. Full stop.
-- **Enginewrights' Guild:** knows the Hearts sit on something older; guards this as a trade secret without grasping it. A few senior wrights have noticed the "fuel" problem and been quietly retired.
+- **Enginewrights' Guild:** knows the Hearts sit on something older; guards this as a trade secret without grasping it. A few senior wrights have noticed the "fuel" problem and been quietly retired. One went further: **Wright Herrek** traced the draw to the lattice and spliced the Mother Engine into it (195 AS). The Guild ruled the splice a failure and exiled his line; the tribunal is sealed even from most masters. It was not a failure.
 - **Veritas archives:** hold the pre-Sundering texts that could explain everything — unread, hoarded, in a dead language. (The Vael references already established in [vael-the-unmade.md](vael-the-unmade.md) are part of this corpus.)
 - **Sophara:** has correctly deduced that the isolation is *enforced* rather than chosen — as a thought experiment, endlessly debated, acted on by no one.
-- **Korrven:** knows more than anyone living — Vael has shown him the lattice. He may not know what the bond hides from him.
-- **The Architect** (if used): knows the full design. The only one who ever did.
+- **Korrven:** knows more than anyone living — Vael has shown him the lattice. He may not know what the bond hides from him — starting with what his own father did to the Mother Engine.
+- **The Architect** (if used): knows the full design. The only one who ever did — and Korrven's ancestor ([History — GM Notes](history.md#gm-notes)).
 
 ## GM Notes
 
