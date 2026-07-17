@@ -34,7 +34,9 @@ Whether Vael offered itself to Korrven or Korrven sought it out is a matter of i
 
 ## What the Bond Costs Korrven
 
-*(GM question: does Korrven know what this bond is doing to him? Does Vael have its own agenda that Korrven hasn't noticed yet? Is there a version of Korrven that could be saved if Vael were severed from him?)*
+**The truth.** Vael does not lie to him — it *curates*. It has never told him what his father actually did to the Mother Engine, and never told him whose blood he carries ([the full story](../characters/npcs/the-king.md#gm-notes)) — because the grievance as Korrven tells it, a visionary destroyed for loving the work, is better fuel than the truth. The bond's price is that everything Korrven knows about himself arrived pre-shaped by something that feeds on his isolation. Proof of that concealment is one of the party's few levers against the bond.
+
+**Still open (deliberately):** is there a version of Korrven that could be saved if Vael were severed from him? This is the campaign's final-choice question — *kill the king* vs. *free the man* — and confronting him with the curated truth (the sealed tribunal, his father's real work) is the scene that decides it. See [Korrven — GM Notes](../characters/npcs/the-king.md#gm-notes), "The truth as a weapon."
 
 ## How It Can Be Defeated
 

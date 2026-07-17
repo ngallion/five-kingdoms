@@ -9,20 +9,21 @@ A working plan for building out the campaign world. Organized as: (1) where the 
 **What's strong already:**
 
 - **The premise** (`world/overview.md`) — five kingdoms, five aspects of humanity, each starved of the others. Clear central tension and themes.
-- **The villain** (`characters/npcs/the-king.md`) — Korrven is fully sketched: motivation, methods, his poisoned offer to each kingdom, why uniting the kingdoms (not violence) is what kills him.
-- **The cosmology** (`world/vael-the-unmade.md`) — Vael gives the setting a metaphysical spine and explains Korrven's power.
-- **Kingdom sketches** (`world/kingdoms/*.md`) — each kingdom has a character, a "what it looks like now," and a "what it needs."
+- **The deep lore is canon** (`world/history.md`, `world/anchors-and-engines.md`) — the Sundering (inverted Anchor Working), Amaranth the unmade sixth kingdom, the Hearts as extraction engines, and the anchor destroy-vs-re-tune mechanic that structures every kingdom arc.
+- **The villain** (`characters/npcs/the-king.md`) — Korrven is fully layered: motivation, methods, the poisoned offer to each kingdom, the exile from Forgeholm, Herrek's splice, the Architect bloodline, and why uniting the kingdoms (not violence) is what kills him.
+- **The cosmology** (`world/vael-the-unmade.md`) — Vael gives the setting a metaphysical spine, explains Korrven's power, and now carries the "curated truth" lever for the endgame.
+- **The first faction** (`world/factions/the-wayfair.md`) — the solstice festival-caravan: cross-kingdom infrastructure, the Session 1 hook, and living proof that re-tuning works.
+- **Kingdom sketches** (`world/kingdoms/*.md`) — each kingdom has a character, a "what it looks like now," and a "what it needs." Forgeholm additionally has its GM-notes spine (Guild, Mother Engine, sealed tribunal, opening hook).
 - **Templates** — every directory has a solid `_template.md`.
 
 **What's stubbed or missing:**
 
 | Area | File(s) | Status |
 |------|---------|--------|
-| History & timeline | `world/history.md` | Empty template |
-| Geography | `world/geography.md` | Empty template |
+| Geography | `world/geography.md` | Empty template except the Hollow March |
 | Magic system | `world/overview.md` § Magic | Open question |
-| Factions | `world/factions/` | No factions written |
-| NPCs | `characters/npcs/` | Only Korrven exists |
+| Factions | `world/factions/` | Wayfair done; still need the king's movement, the Agoran exiles/resistance, the Forgeholm resistance |
+| NPCs | `characters/npcs/` | Only Korrven has a file. Wayfair key members (Sera, Ondrel, Brindle) exist inline only; the Gleaner is named but unstatted |
 | Locations | `locations/` | None — not even capitals |
 | Quests | `quests/` | No quest files; `active/` and `completed/` dirs don't exist yet |
 | PCs | `characters/pcs/` | Template only |
@@ -30,6 +31,7 @@ A working plan for building out the campaign world. Organized as: (1) where the 
 | Handouts | `handouts/` | README only |
 | README | `README.md` | "Fill in the five kingdoms" placeholder |
 | Kingdom key figures | all five kingdom files | "Add notable NPCs here" placeholders |
+| Agoran lore pass | `world/kingdoms/agoran.md` | Untouched by the canon waves — no mention of the Fall (209 AS), the King's Heart, or links to Korrven/anchors |
 
 ---
 

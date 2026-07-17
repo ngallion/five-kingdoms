@@ -8,7 +8,7 @@ Six kingdoms — not five — once shared the world, woven together by the roads
 
 The Working was sabotaged. On activation it inverted — binding each kingdom to *itself* instead of to each other. Amaranth, holding the keystone, was not destroyed but **unmade**: erased from land, record, and memory. The other five woke into a world where they had "always" stood alone. That is the Sundering.
 
-Two centuries later, Forgeholm's enginewrights found the buried anchors without understanding them and built the **Hearts** — Resonance Engines that let each kingdom run on its own aspect. It was the last great act of inter-kingdom trade, and it finished what the Sundering started: no kingdom needed the others anymore. The Hearts do not generate. They *extract* — each kingdom has been burning itself as fuel ever since, and every drop flows down the inverted lattice to Vael.
+A century and a half later, Forgeholm's enginewrights found the buried anchors without understanding them and built the **Hearts** — Resonance Engines that let each kingdom run on its own aspect. It was the last great act of inter-kingdom trade, and it finished what the Sundering started: no kingdom needed the others anymore. The Hearts do not generate. They *extract* — each kingdom has been burning itself as fuel ever since, and every drop flows down the inverted lattice to Vael.
 
 Then came Korrven. See [Vael, the Unmade](vael-the-unmade.md), [The Anchors & the Hearts](anchors-and-engines.md), and [Korrven](../characters/npcs/the-king.md).
 
