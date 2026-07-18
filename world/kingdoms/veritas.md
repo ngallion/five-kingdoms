@@ -1,6 +1,7 @@
 # Veritas — Kingdom of Science
 
 **Aspect:** Science
+**God:** [Theora, the Clear Eye](../religion.md#theora-the-clear-eye-veritas--science) — worshipped now as the Silent Witness, shown everything and told nothing
 **Status:** Isolated, deeply insular
 
 ## Character

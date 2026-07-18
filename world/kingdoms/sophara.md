@@ -1,6 +1,7 @@
 # Sophara — Kingdom of Philosophy
 
 **Aspect:** Philosophy
+**God:** [Sophar, the Weigher](../religion.md#sophar-the-weigher-sophara--philosophy) — worshipped now as the Undecided; the last Verdict was 213 years ago
 **Status:** Isolated, paralyzed
 
 ## Character

@@ -1,6 +1,7 @@
 # Luminar — Kingdom of Creativity
 
 **Aspect:** Creativity
+**God:** [Ora, the First Spark](../religion.md#ora-the-first-spark-luminar--creativity) — worshipped now only at beginnings; finishing has become profane
 **Status:** Isolated, internally fractured
 
 ## Character

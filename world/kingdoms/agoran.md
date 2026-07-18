@@ -1,6 +1,7 @@
 # Agoran — Kingdom of Community
 
 **Aspect:** Community
+**God:** [Tavan, the Long Table](../religion.md#tavan-the-long-table-agoran--community) — his liturgy now occupied by Korrven; grace is said in the king's name
 **Status:** **Fallen — under the king's control**
 
 ## Character
