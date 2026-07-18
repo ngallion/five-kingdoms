@@ -70,7 +70,7 @@ The party's counter is not just stopping him. The lattice wants a keystone. The 
 
 - **Common folk:** the Hearts are engines. Full stop.
 - **Enginewrights' Guild:** knows the Hearts sit on something older; guards this as a trade secret without grasping it. A few senior wrights have noticed the "fuel" problem and been quietly retired. One went further: **Wright Herrek** traced the draw to the lattice and spliced the Mother Engine into it (195 AS). The Guild ruled the splice a failure and exiled his line; the tribunal is sealed even from most masters. It was not a failure.
-- **Veritas archives:** hold the pre-Sundering texts that could explain everything — unread, hoarded, in a dead language. (The Vael references already established in [vael-the-unmade.md](vael-the-unmade.md) are part of this corpus.)
+- **Veritas archives:** hold the pre-Sundering texts that could explain everything — unread, hoarded, and mostly in the **Concord Tongue**, the inter-kingdom language unmade along with Amaranth ([History — GM Notes](history.md#gm-notes)). (The Vael references already established in [vael-the-unmade.md](vael-the-unmade.md) are far older — a separate, mundanely dead language.)
 - **Sophara:** has correctly deduced that the isolation is *enforced* rather than chosen — as a thought experiment, endlessly debated, acted on by no one.
 - **Korrven:** knows more than anyone living — Vael has shown him the lattice. He may not know what the bond hides from him — starting with what his own father did to the Mother Engine.
 - **The Architect** (if used): knows the full design. The only one who ever did — and Korrven's ancestor ([History — GM Notes](history.md#gm-notes)).
