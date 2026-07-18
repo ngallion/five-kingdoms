@@ -22,7 +22,7 @@ Each kingdom was founded on one of five essential aspects of humanity. For gener
 
 ## Magic
 
-> *(How does magic work in this world? Is it tied to the five aspects?)*
+All magic is **aspect-work** — channeling one of the six fundamental strands of what humans are. Before the Sundering it was an everyday craft (**strandcraft**), and its first law was that strands are braided, never worked alone. The inverted lattice sorted the strands: each kingdom now keeps a single narrow, uncannily deep, warped tradition in its own aspect — the Brightwork, the Exact Art, Runework, the Considered Art, Hearthbinding — and cross-strand magic has withered into myth. A party of mixed kingdoms learning to braid again is the first stirring of the old magic in 214 years. Full detail (traditions, the Braid, Daggerheart table use): [Magic — Strandcraft & the Braid](magic.md).
 
 ## Religion
 
