@@ -24,6 +24,10 @@ Each kingdom was founded on one of five essential aspects of humanity. For gener
 
 > *(How does magic work in this world? Is it tied to the five aspects?)*
 
+## Religion
+
+Each kingdom worships the god of its own aspect — **Ora** the First Spark (Luminar), **Theora** the Clear Eye (Veritas), **Ferrun** the Shaping Hand (Forgeholm), **Sophar** the Weigher (Sophara), **Tavan** the Long Table (Agoran) — and remembers its god as chief of the pantheon. All were once worshipped together as the Concord of Six, no god ever invoked alone; isolation has warped each faith the same way it warped each kingdom. No god has answered a prayer since the Sundering. Full detail (and the sixth god): [Religion — The Six](religion.md).
+
 ## Tone & Themes
 
 - The cost of isolation and insularity

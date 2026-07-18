@@ -1,6 +1,7 @@
 # Forgeholm — Kingdom of Technology
 
 **Aspect:** Technology
+**God:** [Ferrun, the Shaping Hand](../religion.md#ferrun-the-shaping-hand-forgeholm--technology) — worshipped now as the Exacting; the Mother Engine occupies his old sanctum
 **Status:** Isolated, increasingly dangerous — **targeted by the king**
 
 ## Character

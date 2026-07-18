@@ -52,7 +52,7 @@ These are questions the existing files explicitly raise (mostly in GM Notes) plu
 6. **The map.** ANSWERED — see `world/geography.md`: the continent is a wheel — Forgeholm north (Ironspine mountains), Veritas east (high plateau), Sophara south (river country), Luminar west (the only coast), Agoran northwest (plains, shortest border with Forgeholm) — ringing the Hollow March, with dead spoke-roads inward and the Girdle rim road connecting the capitals. Player map in `handouts/`.
 7. **Timescale.** How long ago were the kingdoms founded? How many generations of isolation? How recently did Agoran fall? (Suggestion: Agoran fell recently enough that exiles and living memory exist — 5–15 years.)
 8. **Who lives here.** Which Daggerheart ancestries exist, and how do they map onto the kingdoms? Are Korrven's "misfits and monsters" a distinct population?
-9. **Religion & the divine.** Are there gods? Do folk traditions remember Vael (fairy tales about "the Hollow One" etc.)? This feeds handouts and foreshadowing.
+9. **Religion & the divine.** ANSWERED — see `world/religion.md`: six gods (the Concord of Six), one per aspect, once worshipped only in pairs; each kingdom now keeps a single warped cult of its own god. The gods are real, silent since the Sundering, and sealed inside the anchors — the Hearts burn each kingdom's aspect *through* its god. The sixth god, **Amara** (Love), was unmade with Amaranth; the Wayfair unknowingly keeps her liturgy. Folk tales in every kingdom remember Vael as "the Hollow One." Korrven's endgame reads as self-apotheosis — a man making himself the sixth god.
 
 ### C. The campaign itself
 
@@ -77,7 +77,7 @@ Ordered by play priority: the world only needs to be one arc deep before session
 - [x] **`world/history.md`** — DONE: the Anchor Working / Resonance Engine hybrid canon. Sixth kingdom (Amaranth, aspect: Love) unmade at the keystone; the Hearts extract each kingdom's aspect and feed Vael. See also new file `world/anchors-and-engines.md` (per-kingdom anchor states, re-tuning mechanics, endgame).
 - [x] **`world/geography.md`** — DONE: the wheel-shaped continent (five kingdoms ringing the Hollow March), terrain/climate per kingdom (Forgeholm = the Ironspine, Luminar = the Glassreach coast, Veritas = the Tablelands, Sophara = the Meander country, Agoran = the Granary), five named border wilds, the Concord Roads (dead spokes + the Girdle), and travel times. Capital names coined there (Kaldrum, Meridian, the Stoa, Prismere, Commonhold) — rename freely before play. Player map: `handouts/map-of-the-five-kingdoms.svg`.
 - [ ] **`world/magic.md`** (new file) — the magic system per discovery #3; update the Magic section of `overview.md` to link it.
-- [ ] **`world/religion.md`** (new file, optional but recommended) — faiths, folk memory of Vael, what each kingdom worships now (Luminar worships novelty, Veritas truth, etc. — isolation warps faith too).
+- [x] **`world/religion.md`** — DONE: the Concord of Six (Ora, Theora, Ferrun, Sophar, Tavan + the erased Amara), one god per aspect/kingdom, each cult warped by isolation to mirror its Heart's extraction; the Silence of the Gods, the Guest customs, Vael as "the Hollow One" in folk tales, and the gods-in-the-anchors GM truth.
 - [x] **Resolve the `overview.md` GM Notes questions** in place — DONE: symptom-not-cause, sixth aspect = Love/Amaranth, original event = the inverted Anchor Working.
 
 ### Phase 2 — Kingdoms in depth (prioritized by campaign order)
