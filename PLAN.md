@@ -22,9 +22,9 @@ A working plan for building out the campaign world. Organized as: (1) where the 
 |------|---------|--------|
 | Geography | `world/geography.md` | DONE — wheel layout, per-kingdom terrain, border wilds, roads, travel times; player map in `handouts/` |
 | Magic system | `world/overview.md` § Magic | Open question |
-| Factions | `world/factions/` | Wayfair done; still need the king's movement, the Agoran exiles/resistance, the Forgeholm resistance |
-| NPCs | `characters/npcs/` | Only Korrven has a file. Wayfair key members (Sera, Ondrel, Brindle) exist inline only; the Gleaner is named but unstatted |
-| Locations | `locations/` | None — not even capitals |
+| Factions | `world/factions/` | Wayfair + the Second Stamp (Forgeholm resistance) done; still need the king's movement and the Agoran exiles/resistance |
+| NPCs | `characters/npcs/` | Korrven, Halda Vorn, Ilsabet Krane, Wrena Calder have files. Wayfair key members (Sera, Ondrel, Brindle) exist inline only; the Gleaner is named but unstatted |
+| Locations | `locations/` | Kaldrum done; the other four capitals still needed |
 | Quests | `quests/` | No quest files; `active/` and `completed/` dirs don't exist yet |
 | PCs | `characters/pcs/` | Template only |
 | Sessions | `sessions/` | None yet (expected — campaign hasn't started) |
@@ -86,7 +86,7 @@ For **each** kingdom, the deliverables are: a capital/major city file in `locati
 
 Priority order:
 
-1. [ ] **Forgeholm** — *first, it's where the campaign likely opens.* Its GM Notes already ask: what's the power structure, is there a resistance, how can the party intervene? Needs: the capital forge-city, the ruling engineer class, the king's infiltration method (an emissary? a too-good contract?), a resistance faction, and the human cost of the machines (who are "the operated"?).
+1. [x] **Forgeholm** — DONE. Capital: [Kaldrum](locations/kaldrum.md) (depth-is-status forge-city, the hum, the Deep Archive, the Cinderfield fairgrounds). Power structure: the Bench of Masters / marks-as-citizenship / the Unmarked ([forgeholm.md](world/kingdoms/forgeholm.md)). Infiltration method: **both** an emissary *and* a too-good contract — [Ilsabet Krane](characters/npcs/ilsabet-krane.md) and the Agoran Compact. Resistance: [the Second Stamp](world/factions/the-second-stamp.md). Key figures: [Halda Vorn](characters/npcs/halda-vorn.md), Krane, [Wrena Calder](characters/npcs/wrena-calder.md). GM Notes completed: arc role, three intervention levers, what healing looks like.
 2. [ ] **Sophara** — *the party's likely first ally.* GM Notes ask: what push moves them to act? Needs: the great schools, a philosopher NPC who is the exception (wants to act), and the internal debate faction-vs-faction.
 3. [ ] **Agoran** — *the villain's seat; needed early for texture even if visited late.* Needs: the capital under Korrven, the enforcer apparatus, the dissenter network, and **the exile community** (living outside Agoran — great early-game allies and lore sources).
 4. [ ] **Luminar** — needs: the endless-festival capital, an artist NPC whose work the king wants, what "art that harms" looks like in play.
@@ -94,7 +94,7 @@ Priority order:
 
 ### Phase 3 — The campaign spine (villains, factions, quests)
 
-- [ ] **Korrven's lieutenants** — the party can't fight a Tier 4 boss for three arcs. Create 3–5 tiered adversary NPCs (Tier 1–3), each embodying his method: a recruiter who offers belonging, an emissary in Forgeholm, an enforcer commander in Agoran. Each gets an NPC file with Daggerheart stats.
+- [ ] **Korrven's lieutenants** — the party can't fight a Tier 4 boss for three arcs. Create 3–5 tiered adversary NPCs (Tier 1–3), each embodying his method: a recruiter who offers belonging, ~~an emissary in Forgeholm~~ (DONE: **[Ilsabet Krane](characters/npcs/ilsabet-krane.md)**, Tier 2, statted), an enforcer commander in Agoran. Each gets an NPC file with Daggerheart stats.
 - [ ] **Faction files** (`world/factions/`): the king's movement (it needs a name — his followers don't call themselves evil), the Agoran resistance/exiles, and the Forgeholm resistance. ~~At least one cross-kingdom faction that predates the isolation~~ — DONE: **[the Wayfair](world/factions/the-wayfair.md)**, the nomadic festival-caravan (unknowing heirs of Amaranth; their Loosening is the re-tuning mechanic in miniature, and they anchor the Session 1 hook in Forgeholm).
 - [ ] **Main quest file** (`quests/active/`) — the campaign arc: stop the fall of Forgeholm → rally the kingdoms → liberate Agoran → sever/defeat Korrven. Use the Progress checklist for arc milestones.
 - [ ] **Per-kingdom quest files** — one "healing quest" per kingdom (what the party actually does to reconnect it), written as they become imminent, not all up front.
