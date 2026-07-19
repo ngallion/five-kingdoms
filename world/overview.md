@@ -18,6 +18,8 @@ Each kingdom was founded on one of five essential aspects of humanity. For gener
 
 **The evil king's strategy:** He targets kingdoms weakened by isolation. Community, hollowed out by its lack of creativity and philosophy, was ripe — people desperate for purpose and meaning are easy to manipulate with promises of belonging. Technology is next: powerful tools in the hands of someone without wisdom or ethics.
 
+**The Hollowing:** And behind every offer he makes stands the fear that makes kingdoms accept it. The wilds are rising — for five years the monsters of the border wilds and the Hollow March have multiplied, closing roads and emptying waystations — and the king's grey-cloaked Wardens are the only help that ever comes. His protection is real. So is the price. Full detail (and the truth about the tide): [The Hollowing](the-hollowing.md).
+
 **The heroes' task:** Not just to defeat a king, but to help five kingdoms remember what they need from each other.
 
 ## Magic
@@ -42,3 +44,4 @@ Each kingdom worships the god of its own aspect — **Ora** the First Spark (Lum
 - **The king's rise is a symptom, not the cause.** The isolation came first — the Sundering (an inverted protective ritual, 214 years ago) and later the Resonance Engines ("the Hearts") that let each kingdom burn its own aspect as fuel. Korrven is the isolation's most resonant wound, not its author.
 - **There IS a sixth aspect: Love** — the binding itself. Its kingdom, **Amaranth**, was the keystone of the Anchor Working and was *unmade* when the ritual inverted — erased from land, record, and memory. The Hollow March is where it stood.
 - **The original event was the Anchor Working** — six anchors meant to bind the kingdoms together against Vael, sabotaged (see *the Architect* in history.md) so that each kingdom was bound to itself instead. The isolation is an ongoing spell, and it can be broken — anchor by anchor.
+- **The monster surge is his protection racket.** The March is the lattice's drain, steeped in sixty years of the Hearts' runoff and breathing out since the strain of 209; the things flow toward isolation, his Dousers carve the channels that aim them, and his Wardens heroically fight the tide he herds. Proof that the shepherd breeds the wolves is a campaign-tier reveal — [The Hollowing](the-hollowing.md).

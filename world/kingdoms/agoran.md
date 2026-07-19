@@ -29,3 +29,5 @@ To be reminded that belonging built on exclusion and fear is not community. Crea
 ## GM Notes
 
 > *(The king's seat of power is here. Liberating Agoran is probably the campaign's climax — but what does liberation look like when the people don't feel oppressed? The party may need to win the hearts of Agorans, not just defeat a king.)*
+
+**The safest roads in the world.** Five years of [the Hollowing](../the-hollowing.md), and not one Agoran village lost — his herders aim the tide *away* from home, and ordinary Agorans read their safety as proof the king protects his own. It is the discoverable crack: any player who lays the attack reports against a map will see the hole in the pattern, shaped exactly like Agoran.

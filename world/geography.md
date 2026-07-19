@@ -97,11 +97,13 @@ Rules of thumb at Girdle pace, assuming you can cross the borders at all (times 
 
 The border wilds are the unclaimed lands between kingdoms — too far from every Heart to be anyone's problem, which makes them the only places in the world nobody is watching. Exiles, the aspectless, smugglers, and stranger things live in them.
 
+And the stranger things are multiplying. For a generation the wilds have worsened; for the last five years the worsening has had teeth — roads closing, waystations dark, the March's horrors turning up where they never ranged before. See [The Hollowing](the-hollowing.md).
+
 ### The Hollow March *(center)*
 
 The wild region at the center of the world, where all the old Concord Roads converge and stop dead. No two maps agree on its shape or size; cartographers gave up generations ago. Travelers who skirt its edge report a wrongness they can't name — a city-shaped absence on the horizon that isn't there when looked at directly.
 
-**GM truth:** this is where **Amaranth**, the unmade sixth kingdom, stood. Its keystone anchor still hums at the center. See [History](history.md) and [The Anchors & the Hearts](anchors-and-engines.md).
+**GM truth:** this is where **Amaranth**, the unmade sixth kingdom, stood. Its keystone anchor still hums at the center. See [History](history.md) and [The Anchors & the Hearts](anchors-and-engines.md). The March is also the source of the rising tide — it has been breathing its things out into the border wilds since 209 ([The Hollowing](the-hollowing.md)).
 
 ### The Thornfell *(Agoran ↔ Forgeholm)*
 

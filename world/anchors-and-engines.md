@@ -80,3 +80,4 @@ The party's counter is not just stopping him. The lattice wants a keystone. The 
 - The Hearts give every kingdom arc a concrete objective with a location, guardians, and a moral choice — use them as the spine of each "healing quest" (see PLAN.md Phase 3).
 - Don't reveal the extraction mechanic all at once. Let the party notice symptoms first (a Luminari artist grieving a masterpiece nobody remembers; a Sopharan who *almost* stood up). The Hearts should feel benign until suddenly they don't.
 - Vael's counterattack scales with progress: after the second re-tuning it stops being subtle about isolating the party from each other.
+- The extraction has runoff: the March has steeped in sixty years of drained aspect-stuff, and since the strain of 209 it has been breathing the result out into the wilds as the monster surge. [The Hollowing](the-hollowing.md) is the stutter's louder sibling — a second seismograph of the lattice, and the king's engine of consent.
