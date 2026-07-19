@@ -8,7 +8,7 @@
 
 The wilds have been getting worse for a generation — grandfathers say the Girdle was safer in their day, and for once the grandfathers are right. Five years ago it stopped being gradual. Caravans that ran for decades now wait for escort or don't run; waystations stand dark; the Girdle's border-forts, enforcing a closure nobody could source, suddenly have all the purpose they can handle. Herders bring the flocks in early. Villages that lost nobody in living memory have started losing people.
 
-Folk call it **the Hollowing** — *the roads are hollowing out* — and nobody remarks that the word rhymes with the name of the March and with the thing in their children's stories ([the Hollow One](religion.md#the-tales-they-tell-children)). Every kingdom's answer has been the same: higher walls, shorter journeys, fewer reasons to leave. Nobody has noticed that the answer is the problem wearing a helmet.
+Folk call it **the Hollowing** — *the roads are hollowing out* — and nobody remarks that the word rhymes with the name of the March and with the thing in their children's stories ([the Hollow One](religion.md#vael-in-folk-memory--the-hollow-one)). Every kingdom's answer has been the same: higher walls, shorter journeys, fewer reasons to leave. Nobody has noticed that the answer is the problem wearing a helmet.
 
 ## Where they come from
 
@@ -63,4 +63,4 @@ The protection is real. So is what it costs. Every warden-post is the king's eye
 
 **The healing counter.** Every anchor the party re-tunes eases the strain: over the following season, the nearby wilds visibly *quiet* — flocks back out, a waystation relit — living proof the party's method works, and the best propaganda they will ever have. Meanwhile Vael, enraged, drives the tide harder elsewhere ([its counterattack scales](anchors-and-engines.md#gm-notes)): the world gets better where the party has been and worse where they haven't, and the map becomes a scoreboard.
 
-**Open slot — the Warden-General.** The corps needs a commander: the Tier 3 enforcer-lieutenant the plan calls for (Phase 3), running both the grey heroes and the Dousers — possibly without having let himself understand that he runs both. Not invented here; build when the arc needs a face.
+**The Warden-General.** The corps' commander has a face: **[Bram Harrow](../characters/npcs/bram-harrow.md)** — the Tier 3 enforcer-lieutenant, running both the grey heroes and the Dousers without ever having laid the two maps side by side. His file holds the ledger, the Harrow's Fold secret, and the three roads out of the reveal.
