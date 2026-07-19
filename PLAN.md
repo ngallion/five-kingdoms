@@ -22,14 +22,14 @@ A working plan for building out the campaign world. Organized as: (1) where the 
 |------|---------|--------|
 | Geography | `world/geography.md` | DONE — wheel layout, per-kingdom terrain, border wilds, roads, travel times; player map in `handouts/` |
 | Magic system | `world/overview.md` § Magic | Open question |
-| Factions | `world/factions/` | Wayfair + the Second Stamp (Forgeholm resistance) done; still need the king's movement and the Agoran exiles/resistance |
-| NPCs | `characters/npcs/` | Korrven, Halda Vorn, Ilsabet Krane, Wrena Calder have files. Wayfair key members (Sera, Ondrel, Brindle) exist inline only; the Gleaner is named but unstatted |
-| Locations | `locations/` | Kaldrum done; the other four capitals still needed |
-| Quests | `quests/` | No quest files; `active/` and `completed/` dirs don't exist yet |
+| Factions | `world/factions/` | Wayfair, the Second Stamp (Forgeholm), the Closed Hand (Sophara) done; still need the king's movement and the Agoran exiles/resistance (partly seeded by the camp on the fork) |
+| NPCs | `characters/npcs/` | Korrven, Halda Vorn, Ilsabet Krane, Wrena Calder, Casta Meren, Ereni Thole, Kest Varro, Maro Tallis, Tam Merrival have files. Wayfair key members (Sera, Ondrel, Brindle) exist inline only; the Gleaner is named but unstatted |
+| Locations | `locations/` | Kaldrum and the Stoa done; the other three capitals still needed |
+| Quests | `quests/` | Dirs exist (`active/`, `completed/`); no quest files yet |
 | PCs | `characters/pcs/` | Template only |
 | Sessions | `sessions/` | None yet (expected — campaign hasn't started) |
 | Handouts | `handouts/` | README only |
-| README | `README.md` | "Fill in the five kingdoms" placeholder |
+| README | `README.md` | DONE — summary table filled from `overview.md` |
 | Kingdom key figures | all five kingdom files | "Add notable NPCs here" placeholders |
 | Agoran lore pass | `world/kingdoms/agoran.md` | Untouched by the canon waves — no mention of the Fall (209 AS), the King's Heart, or links to Korrven/anchors |
 
@@ -68,9 +68,9 @@ Ordered by play priority: the world only needs to be one arc deep before session
 
 ### Phase 0 — Repo hygiene (quick, do anytime)
 
-- [ ] Create `quests/active/` and `quests/completed/` directories (add `.gitkeep` or a README so git tracks them)
-- [ ] Fill in the "Five Kingdoms" summary table in `README.md` (one line per kingdom — content already exists in `overview.md`)
-- [ ] Add Korrven to `agoran.md` Key Figures (the file asks for this) and cross-link `the-king.md` from `forgeholm.md`
+- [x] Create `quests/active/` and `quests/completed/` directories (add `.gitkeep` or a README so git tracks them)
+- [x] Fill in the "Five Kingdoms" summary table in `README.md` (one line per kingdom — content already exists in `overview.md`)
+- [x] Add Korrven to `agoran.md` Key Figures (the file asks for this) and cross-link `the-king.md` from `forgeholm.md`
 
 ### Phase 1 — Foundations (write once, everything depends on it)
 
@@ -87,14 +87,14 @@ For **each** kingdom, the deliverables are: a capital/major city file in `locati
 Priority order:
 
 1. [x] **Forgeholm** — DONE. Capital: [Kaldrum](locations/kaldrum.md) (depth-is-status forge-city, the hum, the Deep Archive, the Cinderfield fairgrounds). Power structure: the Bench of Masters / marks-as-citizenship / the Unmarked ([forgeholm.md](world/kingdoms/forgeholm.md)). Infiltration method: **both** an emissary *and* a too-good contract — [Ilsabet Krane](characters/npcs/ilsabet-krane.md) and the Agoran Compact. Resistance: [the Second Stamp](world/factions/the-second-stamp.md). Key figures: [Halda Vorn](characters/npcs/halda-vorn.md), Krane, [Wrena Calder](characters/npcs/wrena-calder.md). GM Notes completed: arc role, three intervention levers, what healing looks like.
-2. [ ] **Sophara** — *the party's likely first ally.* GM Notes ask: what push moves them to act? Needs: the great schools, a philosopher NPC who is the exception (wants to act), and the internal debate faction-vs-faction.
+2. [x] **Sophara** — DONE. Capital: [the Stoa](locations/the-stoa.md) (the mirror-still river, the Pending, the Quorum Bell, the camp on the disputed fork). Power structure: the Colloquy / the Deferral of 1 AS / the Provisional ([sophara.md](world/kingdoms/sophara.md)). The push: Agoran refugees landed on the fork island by [Tam Merrival](characters/npcs/tam-merrival.md)'s Quiet Circuit. The schism: [the Closed Hand](world/factions/the-closed-hand.md) (act) vs. the orthodoxy (deliberate), with the king's agent steering the act wing. Key figures: [Casta Meren](characters/npcs/casta-meren.md), [Ereni Thole](characters/npcs/ereni-thole.md), [Kest Varro](characters/npcs/kest-varro.md), [Maro Tallis](characters/npcs/maro-tallis.md). GM Notes completed: arc role, three levers, the Verdict of the Fork, what healing looks like.
 3. [ ] **Agoran** — *the villain's seat; needed early for texture even if visited late.* Needs: the capital under Korrven, the enforcer apparatus, the dissenter network, and **the exile community** (living outside Agoran — great early-game allies and lore sources).
 4. [ ] **Luminar** — needs: the endless-festival capital, an artist NPC whose work the king wants, what "art that harms" looks like in play.
 5. [ ] **Veritas** — needs: the silent libraries, a hoarded discovery that matters to the plot (something about Vael in those unreadably old texts — `vael-the-unmade.md` already establishes Veritas found the references), a scholar NPC who knows too much and tells no one.
 
 ### Phase 3 — The campaign spine (villains, factions, quests)
 
-- [ ] **Korrven's lieutenants** — the party can't fight a Tier 4 boss for three arcs. Create 3–5 tiered adversary NPCs (Tier 1–3), each embodying his method: a recruiter who offers belonging, ~~an emissary in Forgeholm~~ (DONE: **[Ilsabet Krane](characters/npcs/ilsabet-krane.md)**, Tier 2, statted), an enforcer commander in Agoran. Each gets an NPC file with Daggerheart stats.
+- [ ] **Korrven's lieutenants** — the party can't fight a Tier 4 boss for three arcs. Create 3–5 tiered adversary NPCs (Tier 1–3), each embodying his method: a recruiter who offers belonging, ~~an emissary in Forgeholm~~ (DONE: **[Ilsabet Krane](characters/npcs/ilsabet-krane.md)**, Tier 2, statted), ~~an agent in Sophara~~ (DONE: **[Maro Tallis](characters/npcs/maro-tallis.md)**, Tier 2, social adversary), an enforcer commander in Agoran. Each gets an NPC file with Daggerheart stats.
 - [ ] **Faction files** (`world/factions/`): the king's movement (it needs a name — his followers don't call themselves evil), the Agoran resistance/exiles, and the Forgeholm resistance. ~~At least one cross-kingdom faction that predates the isolation~~ — DONE: **[the Wayfair](world/factions/the-wayfair.md)**, the nomadic festival-caravan (unknowing heirs of Amaranth; their Loosening is the re-tuning mechanic in miniature, and they anchor the Session 1 hook in Forgeholm).
 - [ ] **Main quest file** (`quests/active/`) — the campaign arc: stop the fall of Forgeholm → rally the kingdoms → liberate Agoran → sever/defeat Korrven. Use the Progress checklist for arc milestones.
 - [ ] **Per-kingdom quest files** — one "healing quest" per kingdom (what the party actually does to reconnect it), written as they become imminent, not all up front.

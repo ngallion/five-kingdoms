@@ -50,8 +50,6 @@ Forgeholm has no crown. The **Enginewrights' Guild** absorbed governance generat
 
 **Why the king really wants Forgeholm:** not the weapons — the **Enginewrights' Guild**, the only living holders of the craft that builds and tunes the Hearts. With them, Korrven can re-tune anchor after anchor toward himself. The **Mother Engine** beneath the capital is the master tap on the whole lattice. See [The Anchors & the Hearts](../anchors-and-engines.md).
 
-**Why the king really wants Forgeholm:** not the weapons — the **Enginewrights' Guild**, the only living holders of the craft that builds and tunes the Hearts. With them, Korrven can re-tune anchor after anchor toward himself. The **Mother Engine** beneath the capital is the master tap on the whole lattice. See [The Anchors & the Hearts](../anchors-and-engines.md).
-
 **The opening hook:** the campaign opens with **[the Wayfair](../factions/the-wayfair.md)**'s solstice fair camped outside the forge-city — a familiar, welcome fixture on its regular circuit — and the Mother Engine stuttering city-wide while the fair sings, something no fair has ever done before. The Guild wants a culprit; the king's emissary offers them one.
 
 **It's also personal — Forgeholm is his homecoming.** Korrven was exiled from this city in 195 AS, cast out with the rest of Wright Herrek's line ([History — GM Notes](../history.md#gm-notes)).

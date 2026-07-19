@@ -22,7 +22,9 @@ To be reminded that belonging built on exclusion and fear is not community. Crea
 
 ## Key Figures
 
-> *(Add the king as a reference. Add resistance figures, exiles, true believers)*
+- **[Korrven](../../characters/npcs/the-king.md)** — the king. His seat of power; Agoran made him a king, and his liturgy has replaced Tavan's
+
+> *(Add resistance figures, exiles, true believers — see Phase 2.3 in PLAN.md)*
 
 ## GM Notes
 
