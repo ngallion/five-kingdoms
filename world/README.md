@@ -16,5 +16,5 @@ Core lore, one subject per file. **Start with [canon.md](canon.md)** — the one
 
 ## Subdirectories
 
-- [kingdoms/](kingdoms/) — one file per kingdom (Forgeholm, Sophara, and Agoran are built to full depth; Luminar and Veritas are sketches)
+- [kingdoms/](kingdoms/) — one file per kingdom (Forgeholm, Sophara, Agoran, and Luminar are built to full depth; Veritas is a sketch)
 - [factions/](factions/) — one file per faction; see its [README](factions/README.md) for the index table
