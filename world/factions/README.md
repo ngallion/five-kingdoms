@@ -9,3 +9,4 @@ One file per faction. Use `_template.md` as a starting point.
 | [The Closed Hand](the-closed-hand.md) | Contested | Active | Sophara's act-now schism, demanding the docket resume — with the king's agent quietly steering its angriest wing |
 | [The Found](the-found.md) | Enemy | Active | The king's movement — the saved serving the man who saved them: the Wardens, the quiet corps, and the Dousers, ringed in secrecy |
 | [The Eleventh Chair](the-eleventh-chair.md) | Ally | Active | The Agoran exile network keeping the old culture alive — the laid place, the true grace, and the world's last real harvest moot |
+| [The Encore](the-encore.md) | Ally in potential | Active | Luminar's secret audience — the keepers, the Recitals, and the Roll of Makers: memory as resistance in the kingdom that forgets |
