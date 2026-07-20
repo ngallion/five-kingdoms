@@ -10,3 +10,4 @@ One file per faction. Use `_template.md` as a starting point.
 | [The Found](the-found.md) | Enemy | Active | The king's movement — the saved serving the man who saved them: the Wardens, the quiet corps, and the Dousers, ringed in secrecy |
 | [The Eleventh Chair](the-eleventh-chair.md) | Ally | Active | The Agoran exile network keeping the old culture alive — the laid place, the true grace, and the world's last real harvest moot |
 | [The Encore](the-encore.md) | Ally in potential | Active | Luminar's secret audience — the keepers, the Recitals, and the Roll of Makers: memory as resistance in the kingdom that forgets |
+| [The Marginalia](the-marginalia.md) | Ally in potential | Active | Veritas's conversation in the margins — anonymous annotation as the only peer review in the kingdom that hoards, and the quiet proof that shared thought survives |

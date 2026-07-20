@@ -8,5 +8,4 @@ One file per location. Use `_template.md` as a starting point. Keep this table c
 | [The Stoa](the-stoa.md) | Capital of Sophara — city of a thousand courtyards on a river that makes no sound | The Sophara arc — a refugee camp stands on the disputed fork |
 | [Commonhold](commonhold.md) | Capital of Agoran — the walless city of tables, the leaning flame of the Common Hearth | The king's seat; **the campaign's climax stages here** |
 | [Prismere](prismere.md) | Capital of Luminar — the drowned river-mouth of stages and glass, where the tide applauds twice a day | The Luminar arc — the Undertide's finale is the anchor battle |
-
-**Still needed:** Meridian (Veritas — domes and instrument-towers on a survey grid); sketched in [geography.md](../world/geography.md).
+| [Meridian](meridian.md) | Capital of Veritas — the grid-city of domes and instrument-towers that douses its lamps for the stars; the Great Archive descends beneath it | The Veritas arc — the Reading in the Deep Stacks is the anchor battle |
