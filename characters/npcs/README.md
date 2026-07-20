@@ -11,6 +11,7 @@ One file per NPC. Use `_template.md` as a starting point. Keep this table curren
 | [Ilsabet Krane](ilsabet-krane.md) | The King's Provisioner — Korrven's emissary inside Forgeholm, bearing unearned wright's marks | 2 | Kaldrum |
 | [Maro Tallis](maro-tallis.md) | Korrven's embedded agent in Sophara — organizer steering the Closed Hand's angry wing | 2 | The Stoa |
 | [Marlow Pitch](marlow-pitch.md) | The Patron — Korrven's agent in Luminar: impresario of the Northbound, holder of the Luminary's debts | 2 | Prismere |
+| [Ansel Marr](ansel-marr.md) | The Correspondent — Korrven's agent in Veritas: the man who answers every letter, director of the Concordance | 2 | Meridian |
 
 *(The Gleaner, Tier 1 recruiter, is sketch-statted in [the Found](../../world/factions/the-found.md).)*
 
@@ -37,6 +38,16 @@ One file per NPC. Use `_template.md` as a starting point. Keep this table curren
 | [Vess Tallow](vess-tallow.md) | The Finisher — the artist whose given works last; the maker the king wants most | Ally | Prismere (the Fade) |
 
 *(Strake, Gren, Pell, Vairse, and Cantrel exist inline in [Prismere — People Here](../../locations/prismere.md#people-here).)*
+
+## Veritas arc
+
+| NPC | Who they are | Alignment | Where |
+|-----|--------------|-----------|-------|
+| [Vesna Corle](vesna-corle.md) | Arbiter of Record, presiding voice of the Assay — ruler of Veritas in all but title; obstacle, then hinge | Contested | Meridian (the Eye) |
+| [Edda Prine](edda-prine.md) | The Last Reader — Underkeeper of the Deep Stacks, only living reader of the Vael corpus, dying with one telling in her | Ally in potential | Meridian (the Deep Stacks) |
+| [Annot Fell](annot-fell.md) | Journeyman copyist — the hand that routes [the Marginalia](../../world/factions/the-marginalia.md); the party's door into the Archive | Ally | Meridian (the bindery) |
+
+*(Hale, Vim, Voss, Mor, Wick, and Ulme exist inline in [Meridian — People Here](../../locations/meridian.md#people-here) and [the Marginalia](../../world/factions/the-marginalia.md).)*
 
 ## Agoran arc
 
