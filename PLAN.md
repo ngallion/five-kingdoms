@@ -113,6 +113,7 @@ Priority order:
 ### Phase 5 — Ongoing (conventions, not tasks)
 
 - After each session: recap file, update quest progress, update NPC statuses, log loose threads
+- Keep the navigation layer honest: new/renamed files get a row in their directory README index; canon changes land in `world/canon.md` in the same commit (see CLAUDE.md § Keeping the indexes honest)
 - New NPCs/locations get files when they recur, not when improvised once
 - Foreshadow ahead of need: the sixth aspect (if real), Vael's folk-memory, and Korrven's exile story should each be seeded 2+ arcs before their reveal — track seeded clues in the main quest file
 

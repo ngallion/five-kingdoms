@@ -19,7 +19,9 @@ handouts/       — player-facing documents (no spoilers)
 
 ## Quick links
 
+- [Canon Spine](world/canon.md) — every load-bearing fact on one screen (GM only)
 - [World Overview](world/overview.md)
+- Indexes: [world lore](world/README.md) · [factions](world/factions/README.md) · [NPCs](characters/npcs/README.md) · [locations](locations/README.md)
 - [Active Quests](quests/active/)
 - [Session Log](sessions/)
 
