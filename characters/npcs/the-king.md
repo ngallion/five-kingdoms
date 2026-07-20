@@ -50,7 +50,7 @@ His poisoned gifts deepen the isolation in a new way — kingdoms that take his 
 
 ## His Army
 
-Misfits, outcasts, and monsters — people who had nothing before he found them. He gave them purpose when the world gave them nothing. They will die for him, and many of them are not bad people. That is the point. His army is not evil, it is *grateful*. Fighting them is not clean.
+Misfits, outcasts, and monsters — people who had nothing before he found them. He gave them purpose when the world gave them nothing. They will die for him, and many of them are not bad people. That is the point. His army is not evil, it is *grateful*. Fighting them is not clean. His movement calls itself **[the Found](../../world/factions/the-found.md)** — *he found us* — and it is Agoran's administrative spine as much as its army.
 
 Its public face abroad is **the King's Wardens** — the grey-cloaked companies who ride against the rising wilds in every kingdom, free of charge, under the motto *No one stands alone*. They are heroes, and most of them believe every word of it. What a quiet few of them do between rescues is the campaign's other great secret: see [The Hollowing](../../world/the-hollowing.md).
 
