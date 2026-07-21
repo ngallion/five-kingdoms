@@ -2,7 +2,7 @@
 
 **Nature:** The mechanism of the Sundering — and the campaign's arc structure
 **Public knowledge:** Almost none. The Hearts are "just engines." The anchors are forgotten.
-**See also:** [History](history.md) · [Vael, the Unmade](vael-the-unmade.md)
+**See also:** [History](history.md) · [Vael, the Unmade](vael-the-unmade.md) · [The Hearts — a gazetteer](the-hearts.md) *(sites, civic disguises, ambient effects)*
 
 ## The Anchors
 

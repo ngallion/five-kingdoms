@@ -11,6 +11,7 @@ Core lore, one subject per file. **Start with [canon.md](canon.md)** — the one
 | [magic.md](magic.md) | Strandcraft & the Braid — the five warped traditions, the braid-is-Amara secret, Daggerheart table mechanics |
 | [religion.md](religion.md) | The Concord of Six, the five warped cults, the Silence of the Gods, Amara the erased, Vael as "the Hollow One" |
 | [anchors-and-engines.md](anchors-and-engines.md) | The mechanism: anchors, Hearts, what each kingdom's Heart drinks, re-tune vs. destroy, the arc structure |
+| [the-hearts.md](the-hearts.md) | Gazetteer of the Hearts as places — sites, civic disguises, the five involuntary instruments, ambient effects, the keystone |
 | [the-hollowing.md](the-hollowing.md) | The ambient threat: march-things, company-is-armor, the Wardens/Dousers protection racket |
 | [vael-the-unmade.md](vael-the-unmade.md) | The entity behind it all — nature, the bond with Korrven, the Architect, endgame questions |
 
