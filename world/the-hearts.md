@@ -6,7 +6,7 @@
 
 ## The pattern nobody has noticed
 
-Between 152 and 160 AS, Forgeholm's enginewrights found five "resonance sites" and built a Heart on each. Every site was the innermost sanctum of that kingdom's god — the Root was Ferrun's holiest chamber, the fork island is Sophar's oldest garden — and not one record in any kingdom finds this worth mentioning. Each Heart wears a **civic disguise**: it heats, stills, stages, times, or warms something, and the kingdom loves it for the service. And each Heart gives its city an **involuntary instrument** — a hum, a silence, a flame — that registers the deep machinery for anyone who thinks to listen. Since the strain of 209, all five instruments have begun to misbehave.
+Between 152 and 160 AS, Forgeholm's enginewrights found five "resonance sites" and built a Heart on each. Every site was the innermost sanctum of that kingdom's god — the Root was Ferrun's holiest chamber, the fork island is Sophar's oldest garden — and not one record in any kingdom finds this worth mentioning. Each Heart wears a **civic disguise**: it heats, stills, stages, preserves, or warms something, and the kingdom loves it for the service. And each Heart gives its city an **involuntary instrument** — a hum, a silence, a flame — that registers the deep machinery for anyone who thinks to listen. Since the strain of 209, all five instruments have begun to misbehave.
 
 *(GM: the disguise is real — the Hearts genuinely provide their services. That's the trap: destroying or re-tuning one always costs the kingdom something it visibly depends on, on top of everything in [the anchors file](anchors-and-engines.md#what-the-party-can-do-with-an-anchor).)*
 
@@ -26,13 +26,13 @@ Between 152 and 160 AS, Forgeholm's enginewrights found five "resonance sites" a
 **The wound around it:** It drinks the moment between decision and act. The paralysis deepens toward the center — the fork island's debate-garden is where four hundred years of argument have settled nothing — and the uncanny calm Sopharans find so restful is the theft, made scenic.
 **State:** Straining — and the camp pitched on the anchor is, in miniature, an accidental re-tuning already underway ([the Stoa — GM Notes](../locations/the-stoa.md#gm-notes)).
 
-## Veritas — the Silent Heart *(sketch — Meridian is unbuilt; rename and reshape freely)*
+## Veritas — the Silent Heart
 
-**Where:** Beneath the observatory at the survey-grid's zero point in Meridian — Theora's temple, whose lower vaults are contiguous with the Great Archive ([Religion](religion.md#theora-the-clear-eye-veritas--science)).
-**Public face:** **The Standard** — the engine that keeps the kingdom's zero: true time, true north, true measure. It drives the observatory's great instruments, dries and chills the Archive's vaults, and every clock, survey, and scale in Veritas is calibrated against it. A kingdom of measurement will not surrender the thing all measurement rests on.
-**The instrument:** **The Quiet** — sound falls short near the grid's center; scholars whisper in the observatory quarter without deciding to, and the Archive is the most silent inhabited place in the world. On strain-nights the Quiet inverts, Hush-fashion: a whisper in the vaults carries across the whole grid, and the city hears itself think.
-**The wound around it:** It drinks the transfer — knowledge spoken aloud. The nearer the Archive, the harder the hoarding: the innermost vaults hold the greatest discoveries and the oldest unread texts ([what waits in them](anchors-and-engines.md#who-knows-what-gm-reference)), tended by scholars who physically flinch from teaching.
-**State:** Quietly worsening. The scholars have measured the change, filed it, and told no one.
+**Where:** At the very bottom of the Great Archive — below the last catalogued level of the Deep Stacks, beneath the Eye (Theora's temple-observatory) at Zero, [Meridian](../locations/meridian.md).
+**Public face:** **The Preservation Engine** — the machine whose cold, dry breath keeps the vaults perfect and the instruments true. The Archive's famous chill *is* the Heart's disguise: the kingdom's memory is preserved by the engine that eats its meaning, and the oldest, most precious texts in the world are shelved closest to the intake — the catalogues note, without curiosity, that the cold "runs different" near the First Shelves. [Edda Prine](../characters/npcs/edda-prine.md) has worked beside it for fifty years and calls it the draft.
+**The instrument:** **The noon concordance** — every clock in Meridian agrees to the second, and at noon a hundred bells strike as *one bell*. Since the strain of 209 the note has begun to fray: clocks drift, paired instruments disagree, surveys at the plateau's edge refuse to close — all of it re-measured and blamed on the instruments. Bellkeep Ostra Vim keeps three years of fray-measurements in a drawer she has shown to no one.
+**The wound around it:** It drinks the transfer — understanding spoken aloud. Data flows freely (the heliograph towers flash raw figures all day); *meaning* never does. The nearer the Archive, the harder the hoarding: reading floors vast and empty, discoveries sealed unread in the Claim-Vault, and on the Eye's steps the Silent Witness rite — a life's work held open to a silent god, then vaulted forever.
+**State:** Fraying, measured, unspoken — and the arc's climax, the Reading, staged in the Deep Stacks, *is* the re-tuning ([Meridian — GM Notes](../locations/meridian.md#gm-notes)).
 
 ## Luminar — the Heart of a Thousand Doors
 
@@ -59,12 +59,12 @@ Between 152 and 160 AS, Forgeholm's enginewrights found five "resonance sites" a
 
 ## GM Notes
 
-**One gauge, five needles.** The instruments are a single seismograph wearing five disguises: the hum stutters, the river ripples, the Quiet inverts, the tide misses its cue, the flame gutters — *together*, when the lattice strains. Big campaign events (Korrven re-tunes something; the party re-tunes something; a fair's Loosening peaks) should register in whichever city the party is standing in, and a party that starts comparing notes across kingdoms is discovering the lattice bottom-up. Iveth Kall's flame-log, Noll Wray's beacon ledgers, Veritas's measurements, and Ondrel Vasht's arithmetic are four unread copies of the same graph.
+**One gauge, five needles.** The instruments are a single seismograph wearing five disguises: the hum stutters, the river ripples, the noon note frays, the tide misses its cue, the flame gutters — *together*, when the lattice strains. Big campaign events (Korrven re-tunes something; the party re-tunes something; a fair's Loosening peaks) should register in whichever city the party is standing in, and a party that starts comparing notes across kingdoms is discovering the lattice bottom-up. Iveth Kall's flame-log, Noll Wray's beacon ledgers, Bellkeep Vim's fray-drawer, and Ondrel Vasht's arithmetic are four unread copies of the same graph.
 
 **Proximity gradient.** Each kingdom's signature dysfunction intensifies toward its Heart — the deep terraces are coldest, the fork island is the most undecided ground in Sophara, the innermost vaults are the most hoarded, the Glasshouse stage is where completion is drunk *at the source*, and the Ring is where the gratitude is purest. Use it for texture and as a slow clue: the sickness has a *center*, and it's always the same building the kingdom loves most.
 
 **Casters feel it first.** Weavers near a Heart feel the drain directly ([casters as canaries](magic.md#gm-notes)), and a braided act near one makes the extraction visibly stutter ([the Braid](magic.md#at-the-daggerheart-table)) — which is either a breadcrumb or an accusation, depending on who's watching.
 
-**The disguise is the hostage.** Every Heart provides something real: no Engine, no lifts; no Stillworks, no dry banks; no Standard, no true measure; no Doors, no Season; no Hearth, no mother-flame. When the party weighs destroy-vs-re-tune, put the civic service on the scale out loud — the kingdoms will.
+**The disguise is the hostage.** Every Heart provides something real: no Engine, no lifts; no Stillworks, no dry banks; no Preservation Engine, no perfect vaults; no Doors, no Season; no Hearth, no mother-flame. When the party weighs destroy-vs-re-tune, put the civic service on the scale out loud — the kingdoms will.
 
 **The wick.** Deepest layer, for when the reveal chain gets there: each engine burns its kingdom's aspect *through its sealed god* ([Religion — GM Notes](religion.md#gm-notes)). The hum, the stillness, the Quiet, the applause, the flame — the instruments are, in the oldest sense of the word, *voices*. Nobody has prayed to them in two centuries. They have been answering the whole time.
