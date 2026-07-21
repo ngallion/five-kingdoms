@@ -62,6 +62,8 @@ Every anchor re-tuned visibly weakens Korrven (uniting kingdoms is the only thin
 
 Korrven's plan: seize the Guild, re-tune all six anchors, and re-run the Working with **himself as the living keystone** — every kingdom bound to him, a community that cannot exile its king because he *is* the binding.
 
+The plan is no longer theoretical. At the center of the March, enslaved hands are already excavating the keystone and raising **the Sixth Engine** over it — the Heart that was never built, made ready for the day he holds the Guild's craft ([the Foundation](../locations/the-foundation.md) · [the Quiet Harvest](../quests/active/the-quiet-harvest.md)).
+
 *(GM: the plan is only possible because of his blood. The keystone's "correction" is written in the Architect's hand, and the lattice answers the line that wrote it — Korrven's line. See [History — GM Notes](history.md#gm-notes).)*
 
 The party's counter is not just stopping him. The lattice wants a keystone. The final choice of the campaign is what — or who — stands in Amaranth's place: a restored keystone of Love (perhaps rebuilt by Amaranth's own unwitting descendants in Korrven's army), the party themselves, or nothing at all — a world that chooses connection freely, unbound, and takes its chances with Vael's patience.

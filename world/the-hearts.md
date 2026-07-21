@@ -53,9 +53,9 @@ Between 152 and 160 AS, Forgeholm's enginewrights found five "resonance sites" a
 ## The Keystone *(no Heart was ever built here)*
 
 **Where:** The center of the [Hollow March](geography.md#the-hollow-march-center), in the city-shaped absence where Amaranth stood.
-**Why there's no engine:** The enginewrights found five sites because five kingdoms' records led them there. The sixth anchor sits in a place no record admits exists, on roads nobody takes, humming to itself in the one sanctum that was never a building *or* a place — Amara's temple traveled ([Religion — GM Notes](religion.md#gm-notes)). No survey has ever reached it. One wagon-circuit bends around it twice a year, the way a tongue avoids a broken tooth.
+**Why there was never an engine:** The enginewrights found five sites because five kingdoms' records led them there. The sixth anchor sits in a place no record admits exists, on roads nobody takes, humming to itself in the one sanctum that was never a building *or* a place — Amara's temple traveled ([Religion — GM Notes](religion.md#gm-notes)). No survey has ever reached it. One wagon-circuit bends around it twice a year, the way a tongue avoids a broken tooth.
 **The instrument:** The March itself — the knotted space, the unclosable surveys, and now [the breathing-out](the-hollowing.md). The keystone's gauge is read in monsters.
-**State:** Unmade but not gone — and the endgame's prize: whoever (or whatever) stands here decides what the lattice becomes ([the keystone problem](anchors-and-engines.md#the-endgame--the-keystone-problem)).
+**State *(GM)*:** No longer empty. Enslaved hands are digging down to the keystone and raising **the Sixth Engine** over it — [the Foundation](../locations/the-foundation.md), fed by [the Quiet Harvest](../quests/active/the-quiet-harvest.md). The endgame's prize is under construction: whoever (or whatever) stands here decides what the lattice becomes ([the keystone problem](anchors-and-engines.md#the-endgame--the-keystone-problem)).
 
 ## GM Notes
 

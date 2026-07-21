@@ -12,8 +12,8 @@ One file per NPC. Use `_template.md` as a starting point. Keep this table curren
 | [Maro Tallis](maro-tallis.md) | Korrven's embedded agent in Sophara — organizer steering the Closed Hand's angry wing | 2 | The Stoa |
 | [Marlow Pitch](marlow-pitch.md) | The Patron — Korrven's agent in Luminar: impresario of the Northbound, holder of the Luminary's debts | 2 | Prismere |
 | [Ansel Marr](ansel-marr.md) | The Correspondent — Korrven's agent in Veritas: the man who answers every letter, director of the Concordance | 2 | Meridian |
-
-*(The Gleaner, Tier 1 recruiter, is sketch-statted in [the Found](../../world/factions/the-found.md).)*
+| [The Gleaner](the-gleaner.md) | The Found's chief recruiter and the Quiet Harvest's selector — once Lark of the Wayfair; her ledger has two columns | 2 | The circuit's wake |
+| [Dovan Cade](dovan-cade.md) | Steward of the Foundation — keeps the king's March labor camp with terrible gentleness; the camp is his statblock | 3 | The Foundation |
 
 ## Forgeholm arc
 
@@ -61,5 +61,6 @@ One file per NPC. Use `_template.md` as a starting point. Keep this table curren
 | NPC | Who they are | Alignment | Where |
 |-----|--------------|-----------|-------|
 | [Tam Merrival](tam-merrival.md) | "The Myriad" — the Wayfair's closing headliner, smuggler running the Quiet Circuit | Ally | The Meander valley (mobile) |
+| [Herrek](herrek.md) | The Old Wright — the king's father, alive: enslaved chief engineer of the Sixth Engine; the campaign's buried bombshell | Ally (captive) | The Foundation |
 
-*(Wayfair key members Sera, Ondrel, and Brindle exist inline in [the-wayfair.md](../../world/factions/the-wayfair.md); give them files when they recur.)*
+*(Wayfair key members Sera, Ondrel, and Brindle exist inline in [the-wayfair.md](../../world/factions/the-wayfair.md); give them files when they recur. Fenn, the Foundation's one escapee, and the camp figures — Marna Quill, the Concluded, Liss — are inline in [the-quiet-harvest.md](../../quests/active/the-quiet-harvest.md) and [the-foundation.md](../../locations/the-foundation.md).)*
