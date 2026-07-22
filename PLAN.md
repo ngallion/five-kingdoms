@@ -9,7 +9,7 @@ A working plan for building out the campaign world. Organized as: (1) where the 
 **What's strong already:**
 
 - **The premise** (`world/overview.md`) — five kingdoms, five aspects of humanity, each starved of the others. Clear central tension and themes.
-- **The deep lore is canon** (`world/history.md`, `world/anchors-and-engines.md`) — the Sundering (inverted Anchor Working), Amaranth the unmade sixth kingdom, the Hearts as extraction engines, and the anchor destroy-vs-re-tune mechanic that structures every kingdom arc.
+- **The deep lore is canon** (`world/history.md`, `world/anchors-and-engines.md`) — the Sundering (inverted Great Binding), Amaranth the unmade sixth kingdom, the Hearts as extraction engines, and the anchor destroy-vs-re-tune mechanic that structures every kingdom arc.
 - **The villain** (`characters/npcs/the-king.md`) — Korrven is fully layered: motivation, methods, the poisoned offer to each kingdom, the exile from Forgeholm, Herrek's splice, the Architect bloodline, and why uniting the kingdoms (not violence) is what kills him.
 - **The cosmology** (`world/vael-the-unmade.md`) — Vael gives the setting a metaphysical spine, explains Korrven's power, and now carries the "curated truth" lever for the endgame.
 - **The first faction** (`world/factions/the-wayfair.md`) — the solstice festival-caravan: cross-kingdom infrastructure, the Session 1 hook, and living proof that re-tuning works.
@@ -74,11 +74,11 @@ Ordered by play priority: the world only needs to be one arc deep before session
 
 ### Phase 1 — Foundations (write once, everything depends on it)
 
-- [x] **`world/history.md`** — DONE: the Anchor Working / Resonance Engine hybrid canon. Sixth kingdom (Amaranth, aspect: Love) unmade at the keystone; the Hearts extract each kingdom's aspect and feed Vael. See also new file `world/anchors-and-engines.md` (per-kingdom anchor states, re-tuning mechanics, endgame).
+- [x] **`world/history.md`** — DONE: the Great Binding / Resonance Engine hybrid canon. Sixth kingdom (Amaranth, aspect: Love) unmade at the keystone; the Hearts extract each kingdom's aspect and feed Vael. See also new file `world/anchors-and-engines.md` (per-kingdom anchor states, re-tuning mechanics, endgame).
 - [x] **`world/geography.md`** — DONE: the wheel-shaped continent (five kingdoms ringing the Hollow March), terrain/climate per kingdom (Forgeholm = the Ironspine, Luminar = the Glassreach coast, Veritas = the Tablelands, Sophara = the Meander country, Agoran = the Granary), five named border wilds, the Concord Roads (dead spokes + the Girdle), and travel times. Capital names coined there (Kaldrum, Meridian, the Stoa, Prismere, Commonhold) — rename freely before play. Player map: `handouts/map-of-the-five-kingdoms.svg`.
 - [x] **`world/magic.md`** — DONE: strandcraft & the Braid — magic as aspect-work, the five warped kingdom traditions (Brightwork, Exact Art, Runework, Considered Art, Hearthbinding), divine magic through the Silence, the braid-is-Amara secret, Splendor as the ownerless sixth strand, and the loose Daggerheart domain map + Hope-based braid mechanic. `overview.md` Magic section updated to link it.
 - [x] **`world/religion.md`** — DONE: the Concord of Six (Ora, Theora, Ferrun, Sophar, Tavan + the erased Amara), one god per aspect/kingdom, each cult warped by isolation to mirror its Heart's extraction; the Silence of the Gods, the Guest customs, Vael as "the Hollow One" in folk tales, and the gods-in-the-anchors GM truth.
-- [x] **Resolve the `overview.md` GM Notes questions** in place — DONE: symptom-not-cause, sixth aspect = Love/Amaranth, original event = the inverted Anchor Working.
+- [x] **Resolve the `overview.md` GM Notes questions** in place — DONE: symptom-not-cause, sixth aspect = Love/Amaranth, original event = the inverted Great Binding.
 - [x] **`world/the-hollowing.md`** — DONE: the ambient threat. The March (the lattice's drain, steeped in the Hearts' runoff) breathing out march-things since the strain of 209; the things hunt the *isolated* (company is armor — why the Wayfair is never attacked); the King's Wardens fight the tide as public heroes ("No one stands alone") while his **Dousers** secretly aim it by carving channels of cut connection. The herding proof is a campaign-tier reveal lever; per-kingdom pressure map, Daggerheart isolation mechanics, and an open Tier 3 **Warden-General** lieutenant slot included.
 
 ### Phase 2 — Kingdoms in depth (prioritized by campaign order)

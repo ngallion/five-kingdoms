@@ -6,7 +6,7 @@ Core lore, one subject per file. **Start with [canon.md](canon.md)** — the one
 |------|--------------|
 | [canon.md](canon.md) | **The spine.** Every load-bearing fact in one screen, GM only — the contradiction check for new writing |
 | [overview.md](overview.md) | The pitch: five kingdoms, five aspects, the central tension, tone & themes |
-| [history.md](history.md) | Timeline (0 = the Sundering, now = 214 AS), the Anchor Working, the Engine Age, the Fall of Agoran, player-discoverable cracks in the official story |
+| [history.md](history.md) | Timeline (0 = the Sundering, now = 214 AS), the Great Binding, the Engine Age, the Fall of Agoran, player-discoverable cracks in the official story |
 | [geography.md](geography.md) | The wheel-shaped continent, per-kingdom terrain, the border wilds, the Concord Roads & the Girdle, travel times, capital names |
 | [magic.md](magic.md) | Strandcraft & the Braid — the five warped traditions, the braid-is-Amara secret, Daggerheart table mechanics |
 | [religion.md](religion.md) | The Concord of Six, the five warped cults, the Silence of the Gods, Amara the erased, Vael as "the Hollow One" |

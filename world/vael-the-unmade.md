@@ -14,7 +14,7 @@ It has no name it gave itself, because naming requires community. *Vael* is what
 
 ## Vael and the Sundering
 
-Vael could not break the Anchor Working by force — it has no force. Instead it found one of the Working's own designers, a person carrying a private and perfect loneliness, and whispered a single "correction" to the keystone's design. The lattice inverted; Amaranth was unmade; the wards meant to keep Vael out became the walls that feed it. (See [History](history.md) and [The Anchors & the Hearts](anchors-and-engines.md).)
+Vael could not break the Great Binding by force — it has no force. Instead it found one of the Binding's own designers, a person carrying a private and perfect loneliness, and whispered a single "correction" to the keystone's design. The lattice inverted; Amaranth was unmade; the wards meant to keep Vael out became the walls that feed it. (See [History](history.md) and [The Anchors & the Hearts](anchors-and-engines.md).)
 
 Korrven is not Vael's first partner. He is its second. What became of the first — **the Architect** — is an open question, and possibly a campaign-defining one.
 

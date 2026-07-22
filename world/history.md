@@ -4,9 +4,9 @@
 
 ## The Shape of History (GM summary)
 
-Six kingdoms — not five — once shared the world, woven together by the roads, the guilds, and the kingdom whose whole aspect *was* the binding: **Amaranth, the Kingdom of Love**. When the scholars of the age sensed a vast emptiness circling the world's loneliness (Vael, already ancient), the six kingdoms built their greatest defense: the **Anchor Working**, a lattice of six anchors meant to bind the kingdoms together forever, beyond Vael's reach.
+Six kingdoms — not five — once shared the world, woven together by the roads, the guilds, and the kingdom whose whole aspect *was* the binding: **Amaranth, the Kingdom of Love**. When the scholars of the age sensed a vast emptiness circling the world's loneliness (Vael, already ancient), the six kingdoms built their greatest defense: the **Great Binding**, a lattice of six anchors meant to bind the kingdoms together forever, beyond Vael's reach.
 
-The Working was sabotaged. On activation it inverted — binding each kingdom to *itself* instead of to each other. Amaranth, holding the keystone, was not destroyed but **unmade**: erased from land, record, and memory. The other five woke into a world where they had "always" stood alone. That is the Sundering.
+The Binding was sabotaged. On activation it inverted — binding each kingdom to *itself* instead of to each other. Amaranth, holding the keystone, was not destroyed but **unmade**: erased from land, record, and memory. The other five woke into a world where they had "always" stood alone. That is the Sundering.
 
 A century and a half later, Forgeholm's enginewrights found the buried anchors without understanding them and built the **Hearts** — Resonance Engines that let each kingdom run on its own aspect. It was the last great act of inter-kingdom trade, and it finished what the Sundering started: no kingdom needed the others anymore. The Hearts do not generate. They *extract* — each kingdom has been burning itself as fuel ever since, and every drop flows down the inverted lattice to Vael.
 
@@ -18,8 +18,8 @@ Then came Korrven. See [Vael, the Unmade](vael-the-unmade.md), [The Anchors & th
 |-------|-----|---------------|
 | c. 1200–1000 BS | **The Founding** | The kingdoms coalesce around great gathering-places of their aspects. Six crowns, one weave. |
 | c. 1000–50 BS | **The Age of the Weave** | The Concord Roads carry trade, scholars, artists, and marriages between all six kingdoms. The height of the world. |
-| c. 50–0 BS | **The Circling** | Scholars in three kingdoms independently detect "a thinning at the edges of things." The six crowns commission the Anchor Working. |
-| **0** | **The Sundering** | The Working inverts at activation. Amaranth is unmade. Borders seal within a generation; each kingdom remembers a different catastrophe. |
+| c. 50–0 BS | **The Circling** | Scholars in three kingdoms independently detect "a thinning at the edges of things." The six crowns commission the Great Binding. |
+| **0** | **The Sundering** | The Binding inverts at activation. Amaranth is unmade. Borders seal within a generation; each kingdom remembers a different catastrophe. |
 | 0–152 AS | **The Age of Walls** | Isolation hardens into identity. Each kingdom masters its aspect and forgets why it ever needed the others. Histories are quietly rewritten. |
 | 152–160 AS | **The Engine Age** | Forgeholm's enginewrights find the buried anchor sites and build a Heart atop each. The last caravans in living memory deliver them. Trade dies for good. |
 | 195 AS | **The Tamperer's Tribunal — Korrven's exile** | A sealed Guild tribunal in Forgeholm condemns Wright Herrek for tampering with the Mother Engine and exiles his entire line. His son is cast out — unjustly, furiously, completely — and something ancient moves toward the wound. *(See GM Notes.)* |
@@ -28,7 +28,7 @@ Then came Korrven. See [Vael, the Unmade](vael-the-unmade.md), [The Anchors & th
 
 ## Major Historical Events
 
-### The Anchor Working (Year 0) — the Sundering
+### The Great Binding (Year 0) — the Sundering
 
 **When:** 214 years ago.
 **What happened (truth):** Six anchors, one beneath each capital, with Amaranth's as keystone — a permanent lattice of connection Vael could never sever. But the keystone's design had been "corrected" by a trusted hand (see GM Notes: *the Architect*), and on activation the lattice inverted. Instead of binding the kingdoms to each other, it bound each kingdom to itself. The wards meant to keep Vael out now keep everyone in — and each kingdom's uncanny mastery-in-isolation is the ward's twisted gift.
@@ -45,7 +45,7 @@ Then came Korrven. See [Vael, the Unmade](vael-the-unmade.md), [The Anchors & th
 
 **When:** Five years ago — recent enough that exiles, dissenters, and living memory of the old Agoran are everywhere.
 **What happened:** Korrven arrived offering exactly what the extraction had hollowed out: purpose, identity, an enemy. Agoran's Heart now answers to him — the first node of a new lattice.
-**Why it matters now:** He doesn't need to conquer Forgeholm's armies. He needs its enginewrights. With the craft of the Hearts, he can re-tune anchor after anchor — and finish the Working the way *he* intends.
+**Why it matters now:** He doesn't need to conquer Forgeholm's armies. He needs its enginewrights. With the craft of the Hearts, he can re-tune anchor after anchor — and finish the Binding the way *he* intends.
 
 ## What Historians Got Wrong
 
@@ -63,14 +63,14 @@ Player-discoverable cracks in the official story — seed these early:
 
 **The Concord Tongue — Amaranth's language.** The lingua franca of the Age of the Weave was Amaranthine. Love was the binding aspect, so its tongue was the language of everything *between*: treaties, trade, scholarship across borders, the liturgy of the Concord of Six. It was not forgotten over two centuries — it was **unmade in a day**, with the kingdom, and the spell still holds it under: the language can be catalogued but not *kept*. Grammar learned by evening is gone by morning, the way the sixth ledger-name slides off the page. This is why Veritas's diplomatic corpus is dark while domestic records of the same age read fine — a crack worth handing to any scholarly PC. Cracking the Tongue should require collaboration with the erased: the Wayfair elders' surviving liturgy, or a descendant of Amaranth from Korrven's army sounding out the lullaby's missing verse. And a reading recovered *that* way sticks — the first proof the party gets that the unmaking can be undone.
 
-**The Architect.** Vael did not sabotage the Working by force — it can't. It found one of the Working's designers, someone already carrying a private, perfect loneliness, and whispered a single "correction" to the keystone. Korrven is not Vael's first partner; he is its second. Whether the Architect survived — as a ghost in the Hollow March, an undying penitent, or something worse — is deliberately open. If they exist, they are the one being who knows the full design, making them both the campaign's best lore source and its bitterest mirror of Korrven.
+**The Architect.** Vael did not sabotage the Binding by force — it can't. It found one of the Binding's designers, someone already carrying a private, perfect loneliness, and whispered a single "correction" to the keystone. Korrven is not Vael's first partner; he is its second. Whether the Architect survived — as a ghost in the Hollow March, an undying penitent, or something worse — is deliberately open. If they exist, they are the one being who knows the full design, making them both the campaign's best lore source and its bitterest mirror of Korrven.
 
 **The Architect's line — the deepest secret in the setting.** The Architect had children before the Sundering, and the line survives: it runs straight to **Herrek**, and through him to **Korrven**. The family carried two inheritances in secret, eldest to eldest — the Architect's surviving notes, and the shame. A forebear among Forgeholm's founding wrights is why the Guild "luckily" struck the anchor sites in 152 AS. Herrek's splice was the same inheritance turned to *atonement*: he knew what his ancestor did, worked from his ancestor's own designs, and was caught before he ever passed the secret to his son. Korrven knows none of it. And it matters mechanically: the keystone's "correction" is written in the Architect's craft, and the lattice *remembers the hand that corrupted it* — which is why Herrek's splice took when Guild assessors saw dead metal, why the anchors answer Korrven's re-tuning, and why his plan to stand as living keystone is possible at all. Vael has known where this family was every day for two centuries. Full use at the table: [Korrven — GM Notes](../characters/npcs/the-king.md#gm-notes).
 
 **Korrven's exile (195 AS) — settled: Forgeholm.** *(Supersedes the earlier Agoran-homecoming candidate — the homecoming is better spent on the campaign's opening arc.)* His father, **Wright Herrek** of the Mother Engine, was one of the wrights who noticed what the Hearts burn; instead of accepting quiet retirement he traced the draw to the lattice and attempted a splice. The Guild ruled it failed sabotage, sealed the tribunal, and exiled the whole line — so the exile was still *unjust*: Korrven did nothing, and even Herrek's "crime" was an attempted repair. The Guild believes the splice failed. It didn't — it is why the Mother Engine is the master tap on the whole lattice. Korrven knows none of this; he believes his father was destroyed for trying to make the Hearts *better*. Full truth and how to use it: [Korrven](../characters/npcs/the-king.md). The fall of Forgeholm he is now engineering is his homecoming.
 
-**Korrven's endgame.** He is not collecting kingdoms; he is collecting *anchors*. His true goal is to re-run the Anchor Working with himself as the living keystone — every kingdom bound permanently to *him*. A community that cannot exile him, because he is the binding. This is why Forgeholm is next: the enginewrights hold the only living craft that touches the anchors.
+**Korrven's endgame.** He is not collecting kingdoms; he is collecting *anchors*. His true goal is to re-run the Great Binding with himself as the living keystone — every kingdom bound permanently to *him*. A community that cannot exile him, because he is the binding. This is why Forgeholm is next: the enginewrights hold the only living craft that touches the anchors.
 
 **His army's secret.** Many of Korrven's "misfits and monsters" are descendants of Amaranth — aspectless folk in a sorted world, carrying a heritage that was erased from everyone's memory including their own. The heirs of Love, marching under the banner of the thing that unmade them. If the party ever restores the keystone, these are the people who could rebuild Amaranth — the campaign's best possible ending, and the answer to Vael's GM-note question about where the lonely go when it's starved.
 
-**Answers to the overview's open questions:** The king's rise is a *symptom* — the isolation (Sundering + Hearts) came first, and he is its most resonant wound. Yes, there is a sixth aspect: Love, suppressed by unmaking rather than choice. The original event was the inverted Anchor Working.
+**Answers to the overview's open questions:** The king's rise is a *symptom* — the isolation (Sundering + Hearts) came first, and he is its most resonant wound. Yes, there is a sixth aspect: Love, suppressed by unmaking rather than choice. The original event was the inverted Great Binding.

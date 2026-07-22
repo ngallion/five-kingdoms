@@ -137,4 +137,4 @@ Bone-white rolling downs that neither kingdom has ever claimed, cut with enormou
 
 **Names are levers.** Capital names (**Kaldrum, Meridian, the Stoa, Prismere, Commonhold**) and wild names are coined here for the first time — rename freely before they appear in play; this file and the handout map are currently their only references. Travel times are pacing levers, not physics: stretch or shrink them per arc.
 
-**The Vesper Sea question.** Nobody sails out and no record wonders why — deliberately open. Options: the ward-lattice turns ships gently home (the inverted Working binds each kingdom inward); there's genuinely nothing out there; or something pre-Sundering is out there and Vael prefers it forgotten. Decide only if a player tries it.
+**The Vesper Sea question.** Nobody sails out and no record wonders why — deliberately open. Options: the ward-lattice turns ships gently home (the inverted Binding binds each kingdom inward); there's genuinely nothing out there; or something pre-Sundering is out there and Vael prefers it forgotten. Decide only if a player tries it.

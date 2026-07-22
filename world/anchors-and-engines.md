@@ -60,7 +60,7 @@ Every anchor re-tuned visibly weakens Korrven (uniting kingdoms is the only thin
 
 ## The Endgame — the Keystone Problem
 
-Korrven's plan: seize the Guild, re-tune all six anchors, and re-run the Working with **himself as the living keystone** — every kingdom bound to him, a community that cannot exile its king because he *is* the binding.
+Korrven's plan: seize the Guild, re-tune all six anchors, and re-run the Binding with **himself as the living keystone** — every kingdom bound to him, a community that cannot exile its king because he *is* the binding.
 
 The plan is no longer theoretical. At the center of the March, enslaved hands are already excavating the keystone and raising **the Sixth Engine** over it — the Heart that was never built, made ready for the day he holds the Guild's craft ([the Foundation](../locations/the-foundation.md) · [the Quiet Harvest](../quests/active/the-quiet-harvest.md)).
 
