@@ -41,8 +41,8 @@ These are questions the existing files explicitly raise (mostly in GM Notes) plu
 
 ### A. The deep lore (shapes everything else)
 
-1. **The Sundering.** What event drove the five kingdoms apart? Was it a war, a plague, a betrayal, a slow drift — or was it Vael's earliest work? (`overview.md` GM Notes asks: is Korrven's rise a symptom of the isolation, or its cause?)
-2. **The sixth aspect.** `overview.md` floats a lost or suppressed sixth aspect. Does it exist? (Candidates that fit the theme: Faith/Spirit, Memory/Tradition, Love/Compassion.) If yes, it's a massive mid-campaign reveal and should be seeded from session 1.
+1. **The Sundering.** ANSWERED — see `world/history.md` and `world/anchors-and-engines.md`: not a war, plague, or slow drift — it was the **Great Binding inverted**. Six anchors meant to bind the kingdoms together against Vael were sabotaged by **the Architect** (Vael's first partner, and Korrven's ancestor), binding each kingdom to *itself* instead; the isolation is a still-running spell, breakable anchor by anchor. So it *was* Vael's earliest work — through a partner, as always. The `overview.md` GM Notes question is resolved in place: Korrven's rise is a **symptom** of the isolation, not its cause.
+2. **The sixth aspect.** ANSWERED — see `world/history.md`: it exists — **Love**, the binding itself. Its kingdom, **Amaranth**, was the keystone of the Great Binding and was unmade when the ritual inverted; the Hollow March is where it stood. It's the mid-campaign reveal, seeded from session 1 via the Wayfair (Amara's unknowing heirs) — foreshadowing tracked in Phase 5.
 3. **Magic.** ANSWERED — see `world/magic.md`: all magic is **aspect-work** (strandcraft), once an everyday braided craft, now withered into five narrow warped traditions (one per kingdom, each with a hole shaped like what its Heart drinks). Braiding strands is how unity manifests — a light Hope mechanic at the table — and the hidden truth is that **all braiding works through Amara**: the sixth strand is the glue, Splendor/healing is her ownerless surviving magic, and every party braid quietly feeds her return. Loose fictional map of Daggerheart's nine domains onto the strands; no mechanical changes.
 4. **Korrven's exile.** ANSWERED — exiled from **Forgeholm**, 195 AS: his father, Wright Herrek of the Mother Engine, was condemned in a sealed tribunal for tampering and the whole line exiled with him. The Guild thought the splice failed; it succeeded — it's why the Mother Engine is the master tap. Korrven believes his father was punished for trying to make the Hearts *better*. Makes the *Forgeholm* arc his homecoming. Deepest layer: the family descends from **the Architect** — the lattice answers Korrven's blood because his ancestor corrupted it. See `history.md`, `the-king.md`, `forgeholm.md`.
 5. **Vael's endgame.** Does Vael have an agenda Korrven hasn't noticed? Can Korrven be saved if the bond is severed? (Raised in `vael-the-unmade.md`.) Decide whether the campaign's final choice is *kill the king* vs. *free the man*.
@@ -116,12 +116,12 @@ Priority order:
 - After each session: recap file, update quest progress, update NPC statuses, log loose threads
 - Keep the navigation layer honest: new/renamed files get a row in their directory README index; canon changes land in `world/canon.md` in the same commit (see CLAUDE.md § Keeping the indexes honest)
 - New NPCs/locations get files when they recur, not when improvised once
-- Foreshadow ahead of need: the sixth aspect (if real), Vael's folk-memory, and Korrven's exile story should each be seeded 2+ arcs before their reveal — track seeded clues in the main quest file
+- Foreshadow ahead of need: the sixth aspect (Love/Amaranth), Vael's folk-memory, and Korrven's exile story should each be seeded 2+ arcs before their reveal — track seeded clues in the main quest file
 
 ---
 
 ## Suggested first moves
 
-1. Answer discovery section **A** (deep lore) — everything hangs on the Sundering, magic, and Korrven's origin.
+1. Answer discovery section **A** (deep lore) — mostly done: the Sundering, sixth aspect, magic, and Korrven's origin are all ANSWERED; only #5 (Vael's endgame — *kill the king vs. free the man*) remains open.
 2. Sketch the map (discovery #6) and write `world/history.md` + `world/geography.md` (Phase 1).
 3. Build **Forgeholm** to full depth (Phase 2.1) — it's the next domino and the likely opening act.
