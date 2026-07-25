@@ -5,6 +5,7 @@ One file per faction. Use `_template.md` as a starting point.
 | Faction | Alignment | Status | Summary |
 |---------|-----------|--------|---------|
 | [The Wayfair](the-wayfair.md) | Neutral → potential ally | Active | Nomadic festival-caravan of all five kingdoms whose magically braided fairs briefly loosen the Hearts' grip — unknowing heirs of Amaranth |
+| [The Fairground](the-fairground.md) | *(GM kit)* | — | Table companion to the Wayfair: playable dice games, performer roster, food, the prize shelf, and scene tools for any night at the fair |
 | [The Second Stamp](the-second-stamp.md) | Ally in potential | Active | Forgeholm's illegal mutual-repair fellowship — the inked blank die, the night queue, and the *why* of work kept alive below the Bench |
 | [The Closed Hand](the-closed-hand.md) | Contested | Active | Sophara's act-now schism, demanding the docket resume — with the king's agent quietly steering its angriest wing |
 | [The Found](the-found.md) | Enemy | Active | The king's movement — the saved serving the man who saved them: the Wardens, the quiet corps, and the Dousers, ringed in secrecy |

@@ -21,7 +21,7 @@ She was with him before Agoran fell. She would die for him without noticing the 
 
 ## Relationship to the Party
 
-Courteous, curious, and immediately attentive — a party of mixed kingdoms is exactly the sort of remarkable, unshelved people her king collects. She will make each PC a real offer before the arc is out ([he will approach each hero with the thing they most want](the-king.md#relationship-to-the-party) — she is the advance version). She does not consider the party enemies. She considers them *early*.
+Courteous, curious, and immediately attentive — and, for the party, none of it is courtship. Outlanders from four kingdoms at the fair the night the Engine skipped are *useful*, and she processes them accordingly: written into the culprit-story as the fair's foreign agents, their movements fed to the Bench, their motives assigned. She reads each PC's wound the way her king taught her ([the method](the-king.md#he-knows-the-wound)) — and uses it to write the frame: whatever a PC most lacks becomes, in the evidence, the reason they did it. The party's first taste of being *seen* by the king's people arrives as prosecution ([the Stutter — GM Notes](../../quests/active/the-stutter.md#gm-notes)). The seduction is Korrven's to attempt, later, himself.
 
 ## Secrets
 

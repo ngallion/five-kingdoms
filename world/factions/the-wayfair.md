@@ -3,7 +3,7 @@
 **Type:** Nomadic festival-caravan — part traveling fair, part found family, part something older
 **Based in:** Nowhere. The Wayfair moves along the old Concord Roads, kingdom to kingdom, on a circuit nobody else can chart
 **Alignment:** Neutral, ally in potential — unknown to players at campaign start
-**See also:** [History](../history.md) · [The Anchors & the Hearts](../anchors-and-engines.md)
+**See also:** [History](../history.md) · [The Anchors & the Hearts](../anchors-and-engines.md) · **[The Fairground](the-fairground.md)** *(GM table kit: games, performers, food, prizes)*
 
 ## What they are
 

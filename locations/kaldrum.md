@@ -42,7 +42,7 @@ Precision under strain. Kaldrum is proud, punctual, and colder than its forges s
 ## Connections
 
 - **Nearby:** the Cinderfield fairgrounds (the Wayfair, now); the [Thornfell](../world/geography.md#the-thornfell-agoran--forgeholm) moors two weeks west along the Girdle, watchfires lit; the [Screes](../world/geography.md#the-screes-forgeholm--veritas) east toward Meridian
-- **Relevant quests:** the opening arc (Phase 4 — to be written): the stutter, the frame-up of the fair, and the race for the Deep Archive
+- **Relevant quests:** **[The Stutter](../quests/active/the-stutter.md)** — the opening arc: the fair, the frame-up, and the race for the Deep Archive; threads of [the Quiet Harvest](../quests/active/the-quiet-harvest.md) seed here (the empty bunks after the solstice)
 
 ## GM Notes
 

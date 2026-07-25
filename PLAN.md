@@ -25,7 +25,7 @@ A working plan for building out the campaign world. Organized as: (1) where the 
 | Factions | `world/factions/` | Wayfair, the Second Stamp (Forgeholm), the Closed Hand (Sophara), **the Found** (the king's movement), **the Eleventh Chair** (the Agoran exiles), **the Encore** (Luminar), and **the Marginalia** (Veritas) all done |
 | NPCs | `characters/npcs/` | Korrven, Halda Vorn, Ilsabet Krane, Wrena Calder, Casta Meren, Ereni Thole, Kest Varro, Maro Tallis, Tam Merrival, Bram Harrow, Iveth Kall, Oren Brandt, Dorel Vane, Vess Tallow, Marlow Pitch, Vesna Corle, Edda Prine, Ansel Marr, Annot Fell, the Gleaner, Dovan Cade, Herrek have files. Wayfair key members (Sera, Ondrel, Brindle) exist inline only; Prismere minor figures (Strake, Gren, Pell, Vairse, Cantrel) are inline in `prismere.md`; Meridian minor figures (Hale, Vim, Voss, Mor, Wick, Ulme) are inline in `meridian.md` and `the-marginalia.md` |
 | Locations | `locations/` | All five capitals done: Kaldrum, the Stoa, Commonhold, Prismere, and Meridian |
-| Quests | `quests/` | First quest file exists: [the Quiet Harvest](quests/active/the-quiet-harvest.md) (cross-arc main); per-kingdom healing quests still to write |
+| Quests | `quests/` | [The Stutter](quests/active/the-stutter.md) (the opening arc — Session 1) and [the Quiet Harvest](quests/active/the-quiet-harvest.md) (cross-arc main) exist; per-kingdom healing quests still to write |
 | PCs | `characters/pcs/` | Template only |
 | Sessions | `sessions/` | None yet (expected — campaign hasn't started) |
 | Handouts | `handouts/` | README only |
@@ -107,7 +107,7 @@ Priority order:
 
 - [ ] **PC files** — one per player from session zero, with the "wound" Korrven could exploit noted in GM Notes (discovery #10)
 - [ ] **Starting location file** — the town/city where it all begins, fully detailed (people, mood, secrets)
-- [ ] **Opening quest** — the Tier 1 hook that leads the party to discover the king's agents
+- [x] **Opening quest** — DONE: **[The Stutter](quests/active/the-stutter.md)** — Session 1 opens inside it: the solstice fair, the skip, Krane's pre-drafted frame-up (she frames the party rather than courting them — motives written from their wounds), the three levers converging at the tribunal, saboteur + driven-tide encounters, the reveal ladder (the name, not the depths), acts/clocks, and the full outcome ladder including the fall-by-invitation contingency. On-ramp deliberately left open — four options to pick/stack at session zero.
 - [ ] **First handouts** — a player-safe world primer (the five kingdoms as common folk understand them), a map if one exists, and any in-world document for the opening hook
 - [ ] **Session zero notes** — file as `sessions/000-session-zero.md`
 
