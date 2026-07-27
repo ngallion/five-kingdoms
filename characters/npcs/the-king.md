@@ -60,9 +60,15 @@ He will try to do to the party what he has done to every kingdom: find the wound
 
 ## Daggerheart Stats
 
-*(Fill in adversary stats when encounter is designed — this is a Tier 4+ adversary, final boss)*
+*(Full combat block — HP, thresholds, attacks — still to fill in when the final encounter is designed; this is a Tier 4+ adversary, final boss. His signature moves are decided and playable now — see below.)*
 
-**Signature move idea:** When the party is divided or fractured, he grows visibly stronger — describe it physically. When the party acts in genuine cooperation, something in him flinches.
+**Signature moves — DECIDED** (resolves the open PLAN item; combines all three drafted options rather than picking one, per [campaign-frame.md — GM Notes](../../world/campaign-frame.md#gm-notes)):
+
+- **Alone Among You** *(passive trait, always live)*: his effectiveness scales with the party's cohesion. For each PC without an ally in Close range, his attacks gain a bonus or his Fear moves cost less (pick one and hold it steady); at full company — everyone within Close range of someone — he is markedly, visibly weaker. Describe it physically: he grows steadier, colder, more certain when the party is scattered, and visibly falters when they act as one. This is the campaign's thesis, legible in the final fight's geometry.
+- **The Offer, Perfected** *(Fear-spend move, once per PC per confrontation)*: he spends Fear to name a PC's wound aloud — the one collected at session zero — and offers to fill it. The player either engages in character (marking a Stress as the words land) or takes the gift (the PC gains 2 Hope now; Korrven banks 2 Fear and the fiction remembers the bargain was made). Foreshadowed by [Ilsabet Krane's](ilsabet-krane.md) frame-up in [the Stutter](../../quests/active/the-stutter.md), which uses the same "names your lack as your motive" move at Tier 1.
+- **Sever the Braid** *(Fear-spend move)*: he spends Fear to make [the Braid](../../world/magic.md#at-the-daggerheart-table) impossible for a round — strands refusing each other in his presence — counterable only by a PC spending Hope *for someone else*. He reaches for this specifically against a party that has leaned on the Braid as its identity.
+
+He always has **Alone Among You** running, and chooses between his two Fear-spends scene by scene depending on whether the party's cohesion or its magic is the bigger threat in the moment.
 
 ## GM Notes
 

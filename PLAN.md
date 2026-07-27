@@ -51,7 +51,7 @@ These are questions the existing files explicitly raise (mostly in GM Notes) plu
 
 6. **The map.** ANSWERED — see `world/geography.md`: the continent is a wheel — Forgeholm north (Ironspine mountains), Veritas east (high plateau), Sophara south (river country), Luminar west (the only coast), Agoran northwest (plains, shortest border with Forgeholm) — ringing the Hollow March, with dead spoke-roads inward and the Girdle rim road connecting the capitals. Player map in `handouts/`.
 7. **Timescale.** How long ago were the kingdoms founded? How many generations of isolation? How recently did Agoran fall? (Suggestion: Agoran fell recently enough that exiles and living memory exist — 5–15 years.)
-8. **Who lives here.** Which Daggerheart ancestries exist, and how do they map onto the kingdoms? Are Korrven's "misfits and monsters" a distinct population?
+8. **Who lives here.** ANSWERED — kingdoms are **cultures, not bloodlines**: every Daggerheart ancestry exists in every kingdom; identity flows from kingdom and community, ancestry is texture. Recorded in `world/campaign-frame.md` (Ancestries) and `world/canon.md`. Korrven's "misfits" remain a sorting question, not an ancestry one.
 9. **Religion & the divine.** ANSWERED — see `world/religion.md`: six gods (the Concord of Six), one per aspect, once worshipped only in pairs; each kingdom now keeps a single warped cult of its own god. The gods are real, silent since the Sundering, and sealed inside the anchors — the Hearts burn each kingdom's aspect *through* its god. The sixth god, **Amara** (Love), was unmade with Amaranth; the Wayfair unknowingly keeps her liturgy. Folk tales in every kingdom remember Vael as "the Hollow One." Korrven's endgame reads as self-apotheosis — a man making himself the sixth god.
 
 ### C. The campaign itself
@@ -100,15 +100,16 @@ Priority order:
 - [ ] **Main quest file** (`quests/active/`) — the campaign arc: stop the fall of Forgeholm → rally the kingdoms → liberate Agoran → sever/defeat Korrven. Use the Progress checklist for arc milestones.
 - [x] **Cross-arc conspiracy quest** — DONE: **[the Quiet Harvest](quests/active/the-quiet-harvest.md)** — the Gleaner (now Tier 2, full file) flags Wayfarers and dissenters; Douser quiet wagons take them to **[the Foundation](locations/the-foundation.md)** in the Hollow March to build the **Sixth Engine** over the keystone. New NPCs: **[Dovan Cade](characters/npcs/dovan-cade.md)** (Tier 3, Steward of the Foundation) and **[Herrek](characters/npcs/herrek.md)** (alive — the canon option is now resolved; see `the-king.md`).
 - [ ] **Per-kingdom quest files** — one "healing quest" per kingdom (what the party actually does to reconnect it), written as they become imminent, not all up front.
-- [ ] **Korrven's stats** — fill the Daggerheart Stats block in `the-king.md` (can wait until Tier 3–4, but the *signature move* — stronger when the party is divided — should be designed early since it interacts with party dynamics all campaign).
-- [ ] **Vael mechanics** — how does Vael "work on the party" at the table? (Its GM Notes say it isolates them from each other.) Consider a light mechanic tied to Fear tokens or party separation.
+- [ ] **Korrven's stats** — his *signature moves* are DECIDED (see below) and playable now; the full combat block (HP, thresholds, attacks) still waits until Tier 3–4 when the final encounter is designed.
+- [x] **Korrven's signature moves** — DECIDED: all three drafted options run together rather than a pick — Alone Among You (passive), the Offer Perfected, and Sever the Braid (both Fear-spends). See `characters/npcs/the-king.md` § Daggerheart Stats and `world/campaign-frame.md` § GM Notes.
+- [x] **Vael mechanics** — DECIDED: all three drafted options run together as one layered system rather than a pick — Thin Magic (passive), the Whisper (Fear move), and the Unraveling clock (campaign-scale intensifier). See `world/vael-the-unmade.md` § At the Daggerheart Table and `world/campaign-frame.md` § GM Notes.
 
 ### Phase 4 — Session 1 readiness
 
 - [ ] **PC files** — one per player from session zero, with the "wound" Korrven could exploit noted in GM Notes (discovery #10)
 - [ ] **Starting location file** — the town/city where it all begins, fully detailed (people, mood, secrets)
 - [x] **Opening quest** — DONE: **[The Stutter](quests/active/the-stutter.md)** — Session 1 opens inside it: the solstice fair, the skip, Krane's pre-drafted frame-up (she frames the party rather than courting them — motives written from their wounds), the three levers converging at the tribunal, saboteur + driven-tide encounters, the reveal ladder (the name, not the depths), acts/clocks, and the full outcome ladder including the fall-by-invitation contingency. On-ramp deliberately left open — four options to pick/stack at session zero.
-- [ ] **First handouts** — a player-safe world primer (the five kingdoms as common folk understand them), a map if one exists, and any in-world document for the opening hook
+- [x] **First handouts** — PARTIAL: the player-safe world primer is DONE (`handouts/campaign-primer.md`, distilled from `world/campaign-frame.md`) and the map exists; still open: an in-world document for the opening hook
 - [ ] **Session zero notes** — file as `sessions/000-session-zero.md`
 
 ### Phase 5 — Ongoing (conventions, not tasks)

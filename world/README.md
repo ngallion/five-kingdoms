@@ -6,6 +6,7 @@ Core lore, one subject per file. **Start with [canon.md](canon.md)** — the one
 |------|--------------|
 | [canon.md](canon.md) | **The spine.** Every load-bearing fact in one screen, GM only — the contradiction check for new writing |
 | [overview.md](overview.md) | The pitch: five kingdoms, five aspects, the central tension, tone & themes |
+| [campaign-frame.md](campaign-frame.md) | The table-facing campaign frame: pitch, tone, touchstones, character guidance, principles, codified mechanics, session zero — GM Notes hold the spoiler map and two mechanic proposals |
 | [history.md](history.md) | Timeline (0 = the Sundering, now = 214 AS), the Great Binding, the Engine Age, the Fall of Agoran, player-discoverable cracks in the official story |
 | [geography.md](geography.md) | The wheel-shaped continent, per-kingdom terrain, the border wilds, the Concord Roads & the Girdle, travel times, capital names |
 | [magic.md](magic.md) | Strandcraft & the Braid — the five warped traditions, the braid-is-Amara secret, Daggerheart table mechanics |

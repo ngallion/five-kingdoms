@@ -55,3 +55,13 @@ Severing the bond between Vael and Korrven is a different problem — and perhap
 **The question it raises:** If Vael is starved by connection, what happens to all the genuine loneliness it was feeding on? Does healing the kingdoms mean those people — Korrven's exiles, his misfits — have somewhere to go? Or do they just become Vael's next meal?
 
 **Vael and the party:** It will perceive the heroes as a threat long before Korrven does. It may try to work on them subtly — isolating them from each other, feeding on whatever fractures exist between them. It does not manipulate through lies. It manipulates through distance.
+
+## At the Daggerheart Table
+
+Three linked mechanics, all active at once — decided in [campaign-frame.md](campaign-frame.md#gm-notes), which resolved the open PLAN question of how Vael works on the party:
+
+- **Thin Magic** *(passive, always live)*: a PC with no ally in Close range pays a Hope to attempt a spellcast, or takes disadvantage (fix one house rule and hold it all campaign); the Braid cannot form between PCs who aren't within Close range of each other. This is what anti-magic looks like in this setting — never a field or null zone, always isolation ([magic.md — GM Notes](magic.md#gm-notes)).
+- **The Whisper** *(Fear move)*: usable against a PC with no ally in Close range, in any scene where Vael's attention rests on the party. It speaks in the PC's own inner voice — never a command, only a doubt. The player answers a private question ("what do you distrust about the party right now?" — true until spoken aloud to the others) or marks a Stress.
+- **The Unraveling clock** *(campaign-scale)*: tick it whenever an arc ends with the party split by genuine unresolved conflict; clear a tick for an on-screen reconciliation. At each threshold, Thin Magic's cost and the Whisper's frequency both step up. The clock is the visible measure of Vael's grip — tighter the longer the party stays fractured, looser after they choose each other again.
+
+Play it as one system: the passive and the active move are always available, and the clock is how hard they bite. A party that stays close and reconciles openly should feel Vael recede without ever being told the mechanism.
