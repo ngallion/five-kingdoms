@@ -153,7 +153,7 @@ Blade and Bone read as Forgeholm's discipline — the body as certified instrume
 
 Sage is the Granary's magic — growth, harvest, the living land — and the craft of the border wilds, where the kingdoms' grip thins and all strands answer a little. Rangers and druids are most at home in the between-places, which is exactly where this campaign lives.
 
-#### SERAPHS, CLERICS & THE FAITHFUL
+#### SERAPHS & THE FAITHFUL
 
 Every kingdom's god has been silent for two hundred years — and divine magic *still works*. A seraph channels their god's aspect directly and feels the silence personally: prayer like a well-kept pump over a well no one has heard water in for two centuries. If your god ever answers, it will matter enormously. **Splendor is the setting's open mystery:** healing belongs to no kingdom, no tradition, and no temple — every kingdom has healers, and not one can say where the craft comes from.
 
